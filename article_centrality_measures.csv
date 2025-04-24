@@ -1,0 +1,1258 @@
+id,title,year,in_degree_centrality,pagerank,betweenness_centrality,community,citation_count
+1091,Preliminary Design of a Network Protocol Learning Tool Based on the Comprehension of High School Students: Design by an Empirical Study Using a Simple Mind Map,2013,0.0,0.0002790487185283924,0.0,0,1
+1388,Further Results on Independence in Direct-Product Graphs.,2000,0.0007961783439490446,0.0005163360194555939,0.0,1,1
+24781,Setting up an Effective Information Security Awareness Programme,2007,0.005573248407643313,0.0019042716231755846,0.0,2,10
+129505,Improving the optimal bounds for black hole search in rings,2011,0.005573248407643313,0.0018619618518050777,0.0,3,10
+431092,Fault-Tolerant exploration of an unknown dangerous graph by scattered agents,2012,0.0007961783439490446,0.0003265061787138327,0.0,3,5
+770946,Conceptualising the Influence of Tacit Knowledge in Security Risk Management Activities.,2006,0.0,0.0002790487185283924,0.0,2,0
+852874,A Spatial Logic based on Regions and Connection.,1992,0.9848726114649682,0.23179322031786426,0.0,4,1709
+875060,Spatial reasoning in RCC-8 with Boolean region terms,2000,0.02786624203821656,0.00257266688728055,0.0017701544621947542,5,53
+1823722,Assessing similarities of qualitative spatio-temporal relations,2012,0.0,0.0002790487185283924,0.0,6,2
+2282960,Querying Vague Spatial Information in Geographic Data Warehouses,2011,0.0,0.0002790487185283924,0.0,14,4
+5053679,Topological relations between regions with holes,1994,0.03184713375796178,0.004924194250424284,0.00012456936448456278,6,213
+7501392,Towards a formalization of social spaces for socially aware robots,2011,0.0,0.0002790487185283924,0.0,4,16
+13917438,"A Logic for Order of Magnitude Reasoning with Negligibility, Non-closeness and Distance",2007,0.002388535031847134,0.00044818588458290387,3.70069615381362e-07,8,11
+14437913,Situation Awareness in Synthetic Environments : Towards a Computational Model,2005,0.0,0.0002790487185283924,0.0,9,0
+14528253,Cognitive adequacy of topological consistency measures,2011,0.0015923566878980893,0.0003325709664454471,2.1146835164649258e-07,6,3
+15321835,Topological representation of precontact algebras,2005,0.0015923566878980893,0.00038284877046542966,6.159770985817119e-06,5,14
+16484804,Wayfinding choremes - conceptualizing wayfinding and route direction elements.,2004,0.0015923566878980893,0.0003370897275440533,2.9024786507594128e-05,9,46
+17400551,Adapting Spatial and Temporal Cases,2012,0.005573248407643313,0.0006982274435358264,0.00035960783661065333,4,17
+24225937,From images to bodies: modelling and exploiting spatial occlusion and motion parallax,2001,0.02070063694267516,0.002309404597167952,0.0004923734564748409,10,48
+24399478,Natural-Language Spatial Relations Between Linear and Areal Objects: The Topology and Metric of English- Language Terms *,1998,0.02388535031847134,0.0020853803074203222,0.00021398745958310257,6,140
+24842613,A size-based qualitative approach to the representation of spatial granularity,2007,0.007165605095541401,0.0008154224505292589,0.00015368923137978454,4,20
+29365515,Proof Theory of a Multi-Lane Spatial Logic,2013,0.0015923566878980893,0.00047277237429919124,0.0,8,11
+33576187,Spatial Reasoning with Integrated Qualitative-Metric Fuzzy Constraint Networks,2010,0.0,0.0002790487185283924,0.0,4,1
+34288917,The Theory of Cognitive Prism-Recognizing Variable Spatial Environments.,2006,0.0,0.0002790487185283924,0.0,4,0
+37834059,"Physical Objects, Identity and Vagueness.",2002,0.0031847133757961785,0.0005434252090483866,0.00042082484938835314,5,14
+37864808,Incremental semi-automatic correction of misclassified spatial objects,2011,0.0,0.0002790487185283924,0.0,4,2
+38126560,On the explicit and implicit spatiotemporal architecture of narratives of personal experience,2011,0.0,0.0002790487185283924,0.0,9,5
+42931571,QUALITATIVE SPATIAL REASONING VIA 3-VALUED HETEROGENEOUS LOGIC,2009,0.0,0.0002790487185283924,0.0,4,0
+43631183,Solving minimal constraint networks in qualitative spatial and temporal reasoning,2012,0.004777070063694268,0.00044714315486723416,7.861081027823228e-05,13,6
+44375727,Event Matching Using Semantic and Spatial Memories,2013,0.0,0.0002790487185283924,0.0,4,0
+46726022,Combining Cardinal Direction Relations and Relative Relations in QSR.,2004,0.0007961783439490446,0.00029644019829077776,4.504275890070292e-06,12,1
+48946123,A logic-based algorithm for image sequence interpretation and anchoring,2003,0.003980891719745223,0.0004907686858303704,7.189923955980748e-06,10,8
+49052350,What OWL Has Done for Geography and Why We Don't Need it to Map Read.,2006,0.0,0.0002790487185283924,0.0,6,9
+50046293,Situation prediction nets: playing the token game for ontology-driven situation awareness,2010,0.0015923566878980893,0.00031118455395839944,1.9669074183500554e-05,9,6
+52151810,"A Model for Qualitative Spatial Reasoning Combining Topology, Orientation and Distance.",2007,0.0,0.0002790487185283924,0.0,9,4
+52730480,Judgements about spatio-temporal relations,2002,0.0007961783439490446,0.000284321769660108,4.7580379120460827e-07,14,2
+54888278,How to answer yes/no spatial questions using qualitative reasoning?,2012,0.0007961783439490446,0.0003185966020162593,0.0,9,7
+55637898,A Vocabulary of Topological and Containment Relations for a Practical Biological Ontology,2013,0.0015923566878980893,0.0003553726101320428,5.459319656156735e-05,6,6
+55963985,Qualitative Representations of Extended Spatial Objects in Sketch Maps,2014,0.0015923566878980893,0.00035044049826744546,0.00012068723465175874,12,5
+57150406,Reasoning with lines in the Euclidean space,2009,0.0015923566878980893,0.0003364869084075147,0.00011244477151549499,12,2
+57699400,Connecting abstract description systems,2002,0.0031847133757961785,0.0008366336881415081,6.198571461405479e-05,11,25
+60563271,"SpatialML: Annotation Scheme, Corpora, and Tools.",2008,0.006369426751592357,0.0007694447093737609,3.715276942432016e-05,9,66
+63978477,A Formal Theory of Objects and Fields,2001,0.002388535031847134,0.0004396802623875371,8.156963524706069e-06,6,30
+64504817,Qualitative spatio-temporal reasoning with RCC-8 and Allen's interval calculus: computational complexity,2002,0.026273885350318472,0.001808845499496078,0.000623681369517089,8,64
+64446204,Towards a computational paradigm for biomedical structure,2004,0.0,0.0002790487185283924,0.0,4,5
+69727665,Design and comparison of lattices of topological relations based on galois lattice theory,2002,0.003980891719745223,0.0005641854431055638,0.00024724351003628796,7,8
+74571215,Qualitative representation of planar outlines,2000,0.0,0.0002790487185283924,0.0,6,7
+75353366,Reasoning on Spatial Constraints over Regions.,2004,0.0,0.0002790487185283924,0.0,5,1
+75379934,When Regions Start to Move.,2003,0.0031847133757961785,0.0005554907207971438,2.5066048615164256e-05,9,7
+75390077,Rewriting queries for web searches that use local expressions,2011,0.0007961783439490446,0.00035086910842736774,6.7730292055919474e-06,6,3
+75414389,Modelling Route Instructions for Robust Human-Robot Interaction on Navigation Tasks,2008,0.0,0.0002790487185283924,0.0,4,10
+80314536,Efficient extraction and representation of spatial information from video data,2013,0.004777070063694268,0.0006831240098123574,0.0005445197454865788,4,12
+81330821,An Ordering of Convex Topological Relations,2012,0.003980891719745223,0.00038156917845408154,0.00011440749207535647,6,7
+81752390,Cognitive supervision and control of robotic inspection-intervention system using qualitative spatio-temporal representation and reasoning,2013,0.0,0.0002790487185283924,0.0,11,0
+82421611,Towards Fuzzy Spatial Reasoning in Geographic IR Systems,2006,0.0015923566878980893,0.0003523894600378069,0.0,14,8
+83233384,Spatial representation and reasoning: integrating synthetic character's visual perception and symbolic representation,2011,0.0,0.0002790487185283924,0.0,12,0
+83269099,A Spatial Algebra for Multimedia Document Adaptation,2006,0.0015923566878980893,0.0004714258000760093,1.2688101098789555e-05,4,6
+85920217,RCC-3D: Qualitative Spatial Reasoning in 3D.,2010,0.011146496815286625,0.000992766794016441,0.0008242876601607285,4,27
+86407067,Adding Convexity to Mereotopology.,2014,0.0015923566878980893,0.0003397052566905726,7.846184981265864e-05,5,2
+87037992,Qualitative spatial and temporal reasoning: efficient algorithms for everyone,2007,0.011146496815286625,0.000944428948317291,0.0001874132398515212,12,28
+88509857,Spatial Numerosity: A Computational Model Based on a Topological Invariant,2014,0.0,0.0002790487185283924,0.0,4,1
+90605877,Spatial locations via morpho-mereology,2000,0.007165605095541401,0.001535352019424252,0.0011304697233456991,5,18
+91481447,Topological Reasoning in Basic Description.,2006,0.0,0.0002790487185283924,0.0,7,0
+93776840,Qualitative Spatial Reasoning for Navigating Agents - Behavior Formalization with Qualitative Representations.,2009,0.0,0.0002790487185283924,0.0,12,1
+94077606,The Topology of Spatial Scenes in ℝ2,2013,0.004777070063694268,0.00043182267909504295,0.00021734777344498325,6,8
+96308688,CLP(QS): a declarative spatial reasoning framework,2011,0.023089171974522295,0.001481278558785777,0.0017021125359086616,11,56
+97547539,Qualitative Spatial Reasoning in RCC8 with OWL and SWRL,2013,0.0,0.0002790487185283924,0.0,7,3
+100101487,Hypothesising object relations from image transitions,2002,0.005573248407643313,0.0007397954405461533,3.498894926813824e-05,10,16
+100173104,Interpretation of Behaviours from a Viewpoint of Topology.,2009,0.0007961783439490446,0.0002973015878304848,1.1049221373529236e-05,6,3
+106630419,Modular Ontologies for Architectural Design,2009,0.006369426751592357,0.0007164045997003971,0.0002953859816958044,11,31
+113093982,A One-Dimensional Sparse Space-Time Specification of the Generalized Railroad Crossing,2012,0.0,0.0002790487185283924,0.0,8,0
+117131034,A much better polynomial time approximation of consistency in the LR calculus,2010,0.0015923566878980893,0.00028737221246389255,1.1998381894593228e-06,12,3
+118360956,A Tableau Algorithm for DLs with Concrete Domains and GCIs.,2005,0.005573248407643313,0.0007612203899673785,4.846938036699617e-05,13,18
+121662511,Associating spatial patterns to text-units for summarizing geographic information,2006,0.0,0.0002790487185283924,0.0,4,12
+123477921,Spatio-temporal stream reasoning with incomplete spatial information,2014,0.0015923566878980893,0.00031453688455871444,9.255775395039994e-06,13,4
+130967280,From Descriptions to Depictions: A Conceptual Framework,2013,0.0007961783439490446,0.00030541397418697034,2.1415063488497263e-05,4,36
+133060186,Efficient approach to solve the minimal labeling problem of temporal and spatial qualitative constraints,2013,0.005573248407643313,0.0004415525836324227,9.227235690886718e-05,13,13
+138866960,Monte Carlo Simulation for Plausible Interpretation of Natural-Language Spatial Descriptions.,2008,0.0,0.0002790487185283924,0.0,4,1
+143522791,From polygons and timestamps to dynamic geographic features: grounding a spatio-temporal geo-ontology,2012,0.0031847133757961785,0.00035630703346358074,2.9625019234912537e-05,6,7
+145321168,On Spatial Reasoning with Description Logics - Position Paper.,2002,0.005573248407643313,0.0010218183590640327,0.00010610424543862763,7,18
+145918469,A pointless theory of space based on strong connection and congruence,1996,0.04617834394904459,0.007874151048752791,0.0015330868790443908,5,121
+149118268,Fundamental issues of aesthetic knowledge representation,2004,0.0,0.0002790487185283924,0.0,5,0
+149159555,Tucking RCC in Cyc's ontological bed,2003,0.0007961783439490446,0.00030091779410494726,4.8701965752541767e-05,5,6
+156399817,Plan Understanding: Inferring Implicit Dependencies from Explicit Elements in Multi-Agent Plan Representations.,2004,0.0,0.0002790487185283924,0.0,4,0
+156562497,Assimilating knowledge from neuroimages in schizophrenia diagnostics,2008,0.0,0.0002790487185283924,0.0,4,0
+158439594,SOWL: a framework for handling spatio-temporal information in OWL 2.0,2011,0.011146496815286625,0.000829851912103411,0.0004711436536008992,7,67
+159413462,Evaluating State-Based Intention Recognition Algorithms against Human Performance,2014,0.0,0.0002790487185283924,0.0,4,0
+159517624,Abducing qualitative spatio-temporal histories from partial observations,2002,0.007165605095541401,0.0007786703579694826,0.0003078835744636205,11,28
+166872301,A spatial logic of betweenness,2004,0.0,0.0002790487185283924,0.0,4,0
+167246391,Abductive visual perception with feature clouds,2006,0.0007961783439490446,0.0003070903157514883,5.709645494455299e-06,10,3
+172456827,Visual Spatio-Temporal Programming with a 3D Region Connection Calculus,2010,0.0,0.0002790487185283924,0.0,4,0
+173597752,"Towards an Integrated Logic of Space, Time and Motion.",1993,0.019904458598726117,0.007369178103715297,0.0,9,59
+177591601,A Linked Data representation of the Nomenclature of Territorial Units for Statistics,2010,0.0,0.0002790487185283924,0.0,6,4
+178007815,Fuzzy Spatial Relations for 2D Scene.,2010,0.0007961783439490446,0.00032254209956961085,6.787630591777065e-05,7,3
+178612920,Towards modeling dynamic behavior with integrated qualitative spatial relations,2011,0.0007961783439490446,0.000284321769660108,1.3216771977905784e-06,9,2
+179505298,Foundations for a Formalism of Nearness,2002,0.0015923566878980893,0.0004725125387359222,1.8543469976590995e-05,10,5
+184802582,Foundations of spatioterminological reasoning with description logics,1998,0.021496815286624206,0.003976599038926151,0.0005458967143982517,7,70
+188201746,Model-theoretic characterization of Asher and Vieu's ontology of mereotopology,2008,0.0007961783439490446,0.00030465988813820863,0.0,5,2
+188918809,A general purpose context reasoning environment to deal with tracking problems: an ontology-based prototype,2011,0.0,0.0002790487185283924,0.0,4,0
+189329414,Detecting events in video data using a formal ontology of motion verbs,2012,0.0007961783439490446,0.0002959978114517639,0.0,14,4
+191921708,A foundation for region-based qualitative geometry,2000,0.016719745222929936,0.001506109875605621,0.000461582831841726,5,52
+193505525,The Maptree: A Fine-Grained Formal Representation of Space,2012,0.005573248407643313,0.0005374880175083553,5.7900703355439386e-05,6,12
+194318731,Semantic Integrity Constraints for Spatial Databases.,2009,0.0031847133757961785,0.0006224824274423889,2.1886974395411983e-05,6,4
+194585889,Commonsense Inference in Dynamic Spatial Systems: Epistemological Requirements,2010,0.002388535031847134,0.0003592260182018372,1.8054881306035318e-05,9,7
+194883743,RCC and the Theory of Simple Regions in ℝ2,2013,0.0007961783439490446,0.0003581444855041262,0.00011056847050452243,5,1
+195780570,A Multi-granular Database Model,2014,0.0007961783439490446,0.0003976923689919931,0.00012370898571319815,6,3
+197972142,Integration semantisch heterogener Datenquellen von Landschaftsdaten,2007,0.0,0.0002790487185283924,0.0,7,0
+198845790,Carving Up Space: Steps Towards Construction of an Absolutely Complete Theory of Spatial Regions,1996,0.009554140127388536,0.0027462632070849808,1.885347781322259e-05,5,15
+200097274,Problems with local consistency for qualitative calculi,2004,0.0007961783439490446,0.00032405554807613804,4.9166391757809525e-06,12,1
+203518242,Implementation Challenges for Information Security Awareness Initiatives in E-Government.,2012,0.0,0.0002790487185283924,0.0,2,7
+205730280,Splitting atoms in relational algebras,2011,0.0007961783439490446,0.00030277744862111254,0.0,5,2
+206717012,Using Occlusion Calculi to Interpret Digital Images,2006,0.0015923566878980893,0.0003534163082396753,0.00037627917086198605,10,6
+207131014,Formal Properties of Constraint Calculi for Qualitative Spatial Reasoning.,2002,0.005573248407643313,0.00042824040240246186,1.1305719165068774e-05,12,9
+207646462,Solving qualitative constraints involving landmarks,2011,0.005573248407643313,0.0005460978312308945,7.528575268009754e-05,12,10
+226734596,Using Maptrees to Characterize Topological Change,2013,0.003980891719745223,0.00036878813519318417,3.0155386944789837e-05,6,7
+228803548,Splitting Ratios: Metric Details of Topological Line-Line Relations.,2004,0.0031847133757961785,0.0005653410503240364,2.0252900769052723e-05,6,8
+244761467,A Fuzzy Set Approach to Expressing Preferences in Spatial Reasoning,2014,0.0,0.0002790487185283924,0.0,14,1
+248452161,A Context-Aware Framework for SaaS Service Dynamic Discovery in Clouds,2014,0.0,0.0002790487185283924,0.0,4,1
+282565052,Reasoning about Propagation of Properties over Regions,2003,0.0007961783439490446,0.0003087096311442926,1.903215164818433e-05,5,2
+302955410,An Approach to Model Complex Big Data Driven Cyber Physical Systems,2014,0.0,0.0002790487185283924,0.0,7,1
+317884451,Qualitative spatial reasoning about relative position: the tradeoff between strong formal properties and successful reasoning about route graphs,2003,0.00875796178343949,0.0012623039218665612,0.0001664766467105152,12,34
+321982172,Corpus Guided Sense Cluster Analysis: a methodology for ontology development (with examples from the spatial domain).,2014,0.0031847133757961785,0.00042930230231585687,0.0001228847874398493,11,12
+429114829,Towards a qualitative theory of movement,1995,0.023089171974522295,0.003397102632570415,6.452636343899315e-05,9,75
+622042399,A Layered Architecture for a Fuzzy Semantic Approach for Satellite Image Analysis,2015,0.0,0.0002790487185283924,0.0,7,3
+924652428,The Role of Model Testing in Standards Development: The Case of ISO-Space,2012,0.0,0.0002790487185283924,0.0,9,7
+993992513,A Qualitative Spatio-Temporal Framework Based on Point Algebra,2014,0.0,0.0002790487185283924,0.0,8,1
+1005126680,Vertex Incremental Path Consistency for Qualitative Constraint Networks,2014,0.0,0.0002790487185283924,0.0,13,0
+1013787855,Towards a Qualitative Representation of Movement,2014,0.0007961783439490446,0.0003581444855041262,2.4562049043740114e-05,9,4
+1229309667,Concurrent Object Identification and Localization for a Mobile Robot.,2000,0.0,0.0002790487185283924,0.0,9,11
+1479826020,Representing and Reasoning about Changing Spatial Extensions of Geographic Features,2013,0.0015923566878980893,0.00032808809405334734,7.21313160410275e-05,6,9
+1479839375,A syntactical approach to qualitative constraint networks merging,2010,0.004777070063694268,0.0005761845119832417,0.00012926418137746809,4,8
+1480050199,Relative Adjacencies in Spatial Pseudo-Partitions,2003,0.0,0.0002790487185283924,0.0,9,7
+1480418404,Qualitative spatial relation database for semantic web,2006,0.0,0.0002790487185283924,0.0,12,1
+1481431106,Deduction and Deductive Databases for Geographic Data Handling,1993,0.0007961783439490446,0.0003432813924849679,0.0,7,23
+1482140930,Topology and Knowledge of Multiple Agents,2008,0.0007961783439490446,0.00030277744862111254,7.612860659273733e-07,5,17
+1483376495,Spatial reasoning based spatial data mining for precision agriculture,2006,0.0007961783439490446,0.0002930067950535219,1.0044746703208399e-06,12,6
+1483410603,Determining Consistency of Topological Relations,1998,0.013535031847133758,0.0014939407542692816,7.602912139006445e-05,12,25
+1483417608,Qualitative Spatial Representation and Reasoning with the Region Connection Calculus,1997,0.09235668789808918,0.009577329592650006,0.0024988161862584974,6,437
+1483975041,On internal cardinal direction relations,2005,0.006369426751592357,0.0005800668209383146,0.0002754944220267524,12,26
+1485179986,Conceptual neighbourhood diagrams for representing moving objects,2005,0.00875796178343949,0.0007232433028108241,6.4135330077929114e-06,9,26
+1485228943,A Spatio-Temporal Graph Model for Marine Dune Dynamics Analysis and Representation,2013,0.0,0.0002790487185283924,0.0,4,10
+1485626210,Integrating Motion Predicate Classes with Spatial and Temporal Annotations,2008,0.00875796178343949,0.0009641629532901002,8.430062252987115e-05,9,26
+1485648439,Improving an RCC-Derived Geospatial Approximation by OWL Axioms,2008,0.00875796178343949,0.0011011582155954732,0.0006877387755445204,7,23
+1485733404,Handling spatial relations in logical concept analysis to explore geographical data,2008,0.0,0.0002790487185283924,0.0,7,6
+1486996942,Automatic Generation of Propagation Rules for Finite Domains,2000,0.0,0.0002790487185283924,0.0,4,16
+1487667146,Refining Topological Relations between Regions Considering Their Shapes,2008,0.0,0.0002790487185283924,0.0,9,4
+1487872032,Single-Holed Regions: Their Relations and Inferences,2008,0.005573248407643313,0.0006916917985700323,0.0001762969607514992,6,16
+1488271512,Representing the Semantic Content of Topological Relations into Spatial Databases,2007,0.0,0.0002790487185283924,0.0,6,0
+1489142816,Identifying geographical processes from time-stamped data,2011,0.002388535031847134,0.0003886705374254741,3.883556597858625e-05,6,8
+1489545972,Weak composition for qualitative spatial and temporal reasoning,2005,0.0445859872611465,0.0027349672500122765,0.0010608832771643714,12,90
+1489818934,Intuitive Modelling of Place Name Regions for Spatial Information Retrieval,2003,0.002388535031847134,0.00035830824846267193,6.168833915173398e-05,14,23
+1490502008,Dynamic Mereotopology: A Point-free Theory of Changing Regions. I. Stable and unstable mereotopological relations,2010,0.0,0.0002790487185283924,0.0,5,11
+1491223615,Towards duplicate detection for situation awareness based on spatio-temporal relations,2010,0.0007961783439490446,0.0003581444855041262,7.952242188862586e-05,9,2
+1491410102,Asynchronous exploration of an unknown anonymous dangerous graph with o (1) pebbles,2012,0.0015923566878980893,0.0004988829222664956,0.0,3,11
+1491463701,Efficient reasoning with RCC-3D,2010,0.0031847133757961785,0.0005558839029434607,0.00032095961518399153,4,8
+1493541628,Representing and Reasoning About Spatial Knowledge Based on Spatial Relevant Logic,2004,0.0,0.0002790487185283924,0.0,6,1
+1493569994,Three-Valued 9-Intersection for Deriving Possible Topological Relations from Incomplete Observations,2009,0.0,0.0002790487185283924,0.0,6,0
+1494184095,Qualitative Reasoning about Convex Relations,2008,0.005573248407643313,0.0004895600599622709,2.9619757719717136e-05,12,10
+1494501165,Modal Logics for Region-based Theories of Space,2007,0.009554140127388536,0.0006628789225421518,0.00036235589494127085,5,38
+1494726109,The Impact of Qualification on the Application of Qualitative Spatial and Temporal Reasoning Calculi,2010,0.0,0.0002790487185283924,0.0,12,0
+1496725166,CASL specifications of qualitative calculi,2005,0.005573248407643313,0.000709117156971321,0.00013362044675326094,12,7
+1497222988,Rough Sets in Approximate Spatial Reasoning,2000,0.01035031847133758,0.0012639784401460461,0.00018317057573628628,14,33
+1498205847,Spatio-temporal proximities for multimedia document adaptation,2006,0.0015923566878980893,0.0004254025262836637,0.0,4,8
+1499566065,Drawing a figure in a two-dimensional plane for a qualitative representation,2007,0.0,0.0002790487185283924,0.0,6,0
+1490545449,The qualitative trajectory calculus on networks,2006,0.002388535031847134,0.0003313406663862827,3.129781953975625e-05,9,6
+1500088570,Qualitative Geometry for Shape Recognition,2002,0.0015923566878980893,0.0004739454268821036,0.00010944091392996408,5,6
+1500362640,Strings and holes: an exercise on spatial reasoning,2006,0.002388535031847134,0.00041888469152791627,5.508750560391131e-06,10,6
+1500465670,"Spatio-temporal Relevant Logic as the Logical Basis for Specifying, Verifying, and Reasoning About Mobile Multi-agent Systems",2004,0.0,0.0002790487185283924,0.0,6,4
+1500901417,An architecture of diversity for commonsense reasoning,2002,0.0,0.0002790487185283924,0.0,4,27
+1502528470,Topological Relations in Hierarchical Partitions,1999,0.0031847133757961785,0.00046037344172919145,9.260173943796142e-06,5,7
+1503260573,Topological Relations Between Regions in R² and Z²,1993,0.016719745222929936,0.0016015097339333823,0.0,6,66
+1503488576,Qualitative Spatial Representation for Information Retrieval by Gazetteers,2001,0.004777070063694268,0.0005138886282631648,2.447318198644105e-05,9,42
+1504041661,Topo-distance: Measuring the Difference between Spatial Patterns,2000,0.002388535031847134,0.00046339129712208075,0.0001345144375253239,5,4
+1504185658,Qualitative reasoning Feeding Back into quantitative model-based tracking,2004,0.0007961783439490446,0.0003407629468843513,0.0,4,3
+1504843263,An algebraic approach to granularity in qualitative time and space representation,1995,0.004777070063694268,0.0008641814802205186,0.0,14,45
+1504962373,Modeling and Representing Structures for Analyzing Spatial Organization in Agronomy,2003,0.0007961783439490446,0.0004096049750919845,1.9385605893079183e-05,7,5
+1505213410,Modularizing spatial ontologies for assisted living systems,2010,0.0007961783439490446,0.0003136633267413328,0.00010810015369356216,11,6
+1505353959,Evaluating and refining computational models of spatial relations through cross-linguistic human-subjects testing,1995,0.013535031847133758,0.0028011973216489445,0.0,6,65
+1506480041,Vagueness and Rough Location,2002,0.007165605095541401,0.0007744235118159669,0.00010520895111375613,14,44
+1507949122,Dependency calculus: reasoning in a general point relation algebra,2005,0.005573248407643313,0.000440419648823589,3.377101197810827e-05,12,10
+1508383141,How to handle incomplete knowledge concerning moving objects,2007,0.0031847133757961785,0.0003478351196667596,3.992308581277547e-05,9,9
+1509582644,Relation algebras over containers and surfaces: An ontological study of a room space,1999,0.0031847133757961785,0.0010642835451837405,0.00015723757492069955,12,18
+1512728698,Measure Logics for Spatial Reasoning,2004,0.0,0.0002790487185283924,0.0,5,1
+1512785896,An Automata-Theoretic Approach to Constraint LTL,2002,0.0015923566878980893,0.0004160066412751797,5.044527178919546e-06,13,20
+1513462929,Efficient algorithms for spatial configuration information retrieval,2007,0.0,0.0002790487185283924,0.0,14,0
+1513592428,Merging Qualitative Constraints Networks Using Propositional Logic,2009,0.003980891719745223,0.0005530574355168549,0.0,4,12
+1514848890,Qualitative Spatial Scene Modeling for Ambient Intelligence Environments,2008,0.0015923566878980893,0.00030636433950441747,7.556217350796993e-06,9,5
+1515228625,Developing an online history educational system to present the progression of spatial regions,2010,0.0,0.0002790487185283924,0.0,6,0
+1515676329,A qualitative approach to localization and navigation based on visibility information,2009,0.007165605095541401,0.0006430218869521387,7.824329010920227e-06,10,23
+1515857575,"The heterogeneous tool set, HETS",2007,0.006369426751592357,0.0004730621830624234,0.0,12,134
+1516380833,"Bio-surveillance Event Models, Open Source Intelligence, and the Semantic Web",2008,0.0,0.0002790487185283924,0.0,4,1
+1516770156,Combining binary constraint networks in qualitative reasoning,2008,0.005573248407643313,0.0005087567638309813,7.100095440719457e-05,12,10
+1517360634,Modelling functional requirements in spatial design,2010,0.0015923566878980893,0.00038780539812002633,0.00011683097757589598,11,6
+1517485365,Merging Sets of Taxonomically Organized Data Using Concept Mappings under Uncertainty,2009,0.002388535031847134,0.0005382293872128709,2.2838581977821197e-05,4,14
+1517957937,Qualitative Spatial Representation and Reasoning Techniques,1997,0.050955414012738856,0.007321319400138081,0.0037102679979912397,9,170
+1518724711,A graph-based concept for spatiotemporal information in cognitive vision,2005,0.0,0.0002790487185283924,0.0,4,4
+1519196212,A general framework based on dynamic constraints for the enrichment of a topological theory of spatial simulation,2005,0.0007961783439490446,0.0003185966020162593,1.5225721318547465e-05,9,1
+1521263121,Spatial Reasoning in a Holey World,1993,0.003980891719745223,0.002686405970925633,0.0,5,11
+1521171126,Qualitative and Topological Relationships in Spatial Databases,1993,0.03343949044585987,0.006469713408282068,0.00017685073073392418,12,137
+1521979145,A Tractable Subclass of the Block Algebra: Constraint Propagation and Preconvex Relations,1999,0.011146496815286625,0.002941715161623964,0.0,12,20
+1522223856,A Geometric Theory of Vague Boundaries Based on Supervaluation,2001,0.00875796178343949,0.0008084689588496292,0.00010439643414118364,14,35
+1522327251,Combining RCC-8 with qualitative direction calculi: algorithms and complexity,2009,0.013535031847133758,0.0007171778396410291,0.00012907850894234318,12,39
+1522582857,Spatial Agents Implemented in a Logical Expressible Language,2000,0.0007961783439490446,0.0003976923689919931,1.3322506153729032e-05,9,27
+1522641229,Nogoods in qualitative constraint-based reasoning,2012,0.0007961783439490446,0.00030978603457351743,1.5316350612110248e-06,13,2
+1522859064,Reachability and dependency calculi: reasoning in network algebras,2006,0.0,0.0002790487185283924,0.0,12,0
+1523444764,Constraint Networks of Topological Relations and Convexity,1999,0.016719745222929936,0.0015388852444932512,0.00010244598929772633,5,40
+1523893065,Qualitative spatial representation and reasoning in the SparQ-toolbox,2006,0.02388535031847134,0.0018175425607234552,0.0019248216688326086,12,70
+1524234993,From video to RCC8: exploiting a distance based semantics to stabilise the interpretation of mereotopological relations,2011,0.01035031847133758,0.0008605976397190371,0.0005900697546118439,6,23
+1524303998,Spatio-temporal Annotated Constraint Logic Programming,2001,0.003980891719745223,0.0005816232540707801,0.0,4,15
+1524383789,Modeling Topological Properties of a Raster Region for Spatial Optimization,2005,0.0,0.0002790487185283924,0.0,6,9
+1524630248,A model for classification of topological relationships between two spatial objects,2005,0.0007961783439490446,0.0003174129353073768,0.0,4,2
+1524747109,A Topological Calculus for Cartographic Entities,2000,0.0,0.0002790487185283924,0.0,5,14
+1525830615,A hierarchical representation of qualitative shape based on connection and convexity,1995,0.019904458598726117,0.0028701002842925726,7.893572844309503e-05,6,64
+1525985171,Maximal tractable fragments of the region connection calculus: a complete analysis,1999,0.05732484076433121,0.006734170798422782,0.000147189682008419,12,98
+1526179367,Semantic categories underlying the meaning of 'place',2007,0.006369426751592357,0.0005531857770190295,0.00014866772804766052,14,48
+1526817905,Who Can Connect in RCC,2003,0.0015923566878980893,0.000375492725249991,0.0007713861229627049,9,3
+1527451292,Incomplete information in RDF,2013,0.002388535031847134,0.00045247663781895086,0.0002492278637696965,13,9
+1527638862,Dominance Diagrams: A Tool for Qualitative Reasoning About Continuous Systems,2001,0.003980891719745223,0.00045840480083647427,1.085162205014008e-05,9,18
+1527693648,Modelling models of robot navigation using formal spatial ontology,2004,0.0031847133757961785,0.0008416491006318314,0.0005056384078416965,4,34
+1528103959,Topology in Raster and Vector Representation,2000,0.0031847133757961785,0.0005952204457950155,3.877722319863477e-05,6,43
+1531504422,Geocognostics - A New Framework for Spatial Information Theory,1997,0.0007961783439490446,0.00031294690437513547,6.344050549394777e-07,9,12
+1532035848,Merging qualitative constraint networks defined on different qualitative formalisms,2009,0.0007961783439490446,0.0003214459298173568,5.8067870520290135e-05,12,4
+1532836208,Ontology-Based Retrieval of Spatially Related Objects for Location Based Services,2009,0.0015923566878980893,0.00037025196009928256,2.4244846516270374e-05,7,8
+1533500667,Characterising meanders qualitatively,2006,0.0015923566878980893,0.00038001356108068106,0.0,9,6
+1533789797,On spatial modeling of discrete event systems using point-interval logic,2003,0.0,0.0002790487185283924,0.0,4,2
+1536916438,Applying the Dynamic Region Connection Calculus to exploit geographic knowledge in maritime surveillance,2012,0.0007961783439490446,0.0003976923689919931,8.881670769152688e-05,7,2
+1537383764,Building large composition tables via axiomatic theories,2002,0.00875796178343949,0.0006432691024667541,6.093249823741867e-05,10,18
+1538572426,New rules for hybrid spatial reasoning,2005,0.0,0.0002790487185283924,0.0,12,0
+1539205476,A Predication Calculus for Qualitative Spatial Representations,1999,0.005573248407643313,0.0006279177843913489,2.2481099764323556e-06,5,19
+1539708367,Multi-Dimensional Modal Logic as a Framework for Spatio-Temporal Reasoning,2002,0.03503184713375796,0.0027801440554550546,0.0011545601852624044,8,144
+1540371123,Fast algebraic methods for interval constraint problems,1997,0.006369426751592357,0.002665777051463802,1.1184661817798059e-05,14,28
+1541126263,Computing Spatial Similarity by Games,2001,0.0007961783439490446,0.0003359771242205152,0.0,5,6
+1541295002,Tools and techniques in qualitative reasoning about space,2010,0.0,0.0002790487185283924,0.0,5,0
+1541789858,Consistency Checking for Qualitative Spatial Reasoning with Cardinal Directions,2002,0.003980891719745223,0.0008025541796627247,3.564475290628006e-05,12,10
+1542039873,Connection Relations in Mereotopology,1998,0.011146496815286625,0.002600341626609397,0.00015021542505563653,5,34
+1543164767,In defense of large qualitative calculi,2010,0.002388535031847134,0.0003574820743659706,5.8105772635803014e-05,12,4
+1543834633,Inter-diagrammatic reasoning and digital geometry,2004,0.0,0.0002790487185283924,0.0,9,3
+1544014977,Relaxation of qualitative constraint networks,2007,0.0,0.0002790487185283924,0.0,4,1
+1544133683,Double-Crossing: Decidability and Computational Complexity of a Qualitative Calculus for Navigation,2001,0.01592356687898089,0.0016454314407971854,0.00010061478671423448,12,36
+1544556260,Reasoning with qualitative velocity: towards a hybrid approach,2012,0.0015923566878980893,0.00032385714596213136,2.4673534693962537e-05,8,6
+1544585409,On the computability of region-based euclidean logics,2010,0.0015923566878980893,0.00031438980771330107,1.1881752134118462e-05,5,8
+1545989657,Approximate qualitative spatial reasoning,2001,0.007165605095541401,0.0011609031769094964,0.00037878362195742376,14,24
+1545992628,SemGen: towards a semantic data generator for benchmarking duplicate detectors,2011,0.0,0.0002790487185283924,0.0,9,1
+1546759054,Calendars and topologies as types,2005,0.0,0.0002790487185283924,0.0,4,1
+1547306893,An Applied Calculus for Spatial Accessibility Reasoning,2003,0.0007961783439490446,0.0003976923689919931,2.4741797142639633e-05,4,2
+1549330833,An Ontology for Grounding Vague Geographic Terms,2008,0.005573248407643313,0.0005886611271290052,0.0003939281653645742,14,39
+1549564252,Combining logics in simple type theory,2010,0.0007961783439490446,0.0003976923689919931,0.0,4,3
+1549715194,Composing Cardinal Direction Relations,2001,0.009554140127388536,0.0012132791916115372,0.00033082334624573293,12,26
+1550264718,Dependency calculus reasoning in a general point relation algebra,2005,0.0,0.0002790487185283924,0.0,9,0
+1550405213,A System Handling RCC-8 Queries on 2D Regions Representable in the Closure algebra of Half-Planes,1998,0.006369426751592357,0.0006094973424267133,3.28951608388003e-05,7,14
+1550985690,Automating Defeasible Reasoning with Logic Programming.,1999,0.0,0.0002790487185283924,0.0,4,0
+1551609000,On the Translation of Qualitative Spatial Reasoning Problems into Modal Logics,1999,0.018312101910828025,0.00203785329833477,0.00016968032358289698,5,38
+1551997417,A Logical Account of the Common Sense Informatic Situation for a Mobile Robot.,1998,0.0007961783439490446,0.0004115537138306094,4.7580379120460827e-07,11,27
+1552191973,Reasoning about ordering,1995,0.04219745222929937,0.004877292148351393,0.0,9,122
+1552221065,A Model for Representing Topological Relations Between Simple Concave Regions,2007,0.006369426751592357,0.0005429254043406903,1.8523368864044376e-05,6,15
+1553015342,A hybrid logic for commonsense spatial reasoning,2005,0.0015923566878980893,0.00034232533210897946,6.344050549394777e-07,4,6
+1553635257,Saving space: a unified approach for representing and reasoning over different qualitative spatial relations,1998,0.0,0.0002790487185283924,0.0,4,0
+1555991160,Representing the spatial relations in the semantic web ontologies,2003,0.0,0.0002790487185283924,0.0,7,3
+1556805795,Specification of an ontology for route graphs,2004,0.003980891719745223,0.0007616743791785905,5.580372877109497e-05,4,43
+1557143830,Spatial Reasoning with Propositional Logics,1994,0.06369426751592357,0.013875595935671704,0.0,5,147
+1557743801,Ontological diversity: the case from space,2010,0.002388535031847134,0.0004375425858036587,0.0007185468916663284,11,4
+1558547586,Line-based affine reasoning in Euclidean plane,2004,0.0,0.0002790487185283924,0.0,12,1
+1558754170,Rough Sets in Spatio-temporal Data Mining,2000,0.0015923566878980893,0.0004623022680903367,2.8548227472276496e-06,14,16
+1559026684,A Graded Approach to Directions between Extended Objects,2002,0.0015923566878980893,0.0004570141942237934,5.4876037252264825e-05,4,11
+1559373471,The recognition and interpretation of motion in language,2010,0.0007961783439490446,0.0003096152572914675,2.4583195878904763e-05,9,4
+1559297931,Linked Nomenclature of Territorial Units for Statistics,2013,0.0,0.0002790487185283924,0.0,6,4
+1560203638,Qualitative Spatial Reasoning in a Logical Framework,2003,0.0015923566878980893,0.0003904920527744795,3.912164505460113e-06,4,4
+1560465891,Spatial Reasoning About Points in a Multidimensional Setting,2002,0.007165605095541401,0.0015726722747555007,3.77495483861839e-05,12,18
+1560833465,Abstract Structures in Spatial Cognition,1997,0.0007961783439490446,0.0003148805477539261,0.0,9,20
+1561161371,Qualitative Spatio-Temporal Continuity,2001,0.009554140127388536,0.0014654524306848256,0.00036879584641946625,9,39
+1561545719,How far can we 'C'? defining a 'doughnut' using connection alone,1994,0.023089171974522295,0.007364818802796578,0.0,5,50
+1562214614,The 9 + -Intersection: A Universal Framework for Modeling Topological Relations,2008,0.012738853503184714,0.0007674851835705466,0.00033127696147242943,6,35
+1562331981,When Tables Tell It All: Qualitative Spatial and Temporal Reasoning Based on Linear Orderings,2001,0.003980891719745223,0.001041571014022014,0.00039196454066976695,12,12
+1563081162,First-order qualitative spatial representation languages with convexity,1999,0.009554140127388536,0.001093341797649784,0.0001088244415997325,5,21
+1563428815,Toward a geometry of common sense: a semantics and a complete axiomatization of mereotopology,1995,0.054140127388535034,0.012655685943725736,0.0,5,150
+1563522710,Spatio-terminological inference for the design of ambient environments,2009,0.01035031847133758,0.0009569109202538876,0.0011268825244189586,11,47
+1564025125,Adding ternary complex roles to ALCRP(D).,2002,0.002388535031847134,0.00033407063970335307,2.7891329277449157e-06,7,6
+1564696825,Life and Motion Configurations: A Basis for Spatio-temporal Generalized Reasoning Model,2008,0.0007961783439490446,0.00032251483748953967,0.0001290218763002786,9,4
+1566189780,SVG-Based Spatial Information Representation and Analysis,2008,0.0,0.0002790487185283924,0.0,9,2
+1567810479,Spatial and temporal reasoning: beyond Allen's calculus,2004,0.005573248407643313,0.0010904673745600428,0.0009067921278958124,12,15
+1568262744,Spatial Reasoning with Topological Information,1998,0.009554140127388536,0.0011270039153253456,0.00019440058834169067,5,27
+1568347782,Combining topological and directional information: first results,2006,0.0031847133757961785,0.00045880284156565366,9.579402866921582e-05,12,7
+1569212922,Some Spatial and Spatio-Temporal Operators Derived from the Topological View of Knowledge.,2007,0.0,0.0002790487185283924,0.0,4,1
+1570319308,A complete classification of tractability in RCC-5,1997,0.01751592356687898,0.002393998613520017,0.0007525489991171475,12,60
+1570517834,Computational Properties of Qualitative Spatial Reasoning: First Results,1995,0.030254777070063694,0.006925019364311353,1.7058677996884697e-05,12,48
+1570726917,Spatial reasoning based on rules,2005,0.0007961783439490446,0.0003581444855041262,5.1386809450097694e-05,12,2
+1571025156,Towards attention-guided human-computer collaborative reasoning for spatial configuration and design,2007,0.0015923566878980893,0.0004767881359677269,0.0,4,8
+1571922741,Towards dialogue based shared control of navigating robots,2004,0.0015923566878980893,0.0006378270912216603,0.0,4,26
+1571968743,"Qualitative CSP, finite CSP, and SAT: comparing methods for qualitative constraint-based reasoning",2009,0.01194267515923567,0.0007774024284141173,0.0001666545870724797,12,32
+1572253000,Qualitative Constraint Calculi: Heterogeneous Verification of Composition Tables.,2005,0.002388535031847134,0.00037026615518004417,3.079130248795537e-05,12,9
+1572704630,Order of magnitude qualitative reasoning with bidirectional negligibility,2005,0.0,0.0002790487185283924,0.0,8,1
+1573787331,Implicit spatial reference systems using proximity and aligment knowledge,2001,0.0,0.0002790487185283924,0.0,9,7
+1574355202,"Narrative Scenarios, Mediating Formalisms, and the Agent-Based Simulation of Land Use Change",2009,0.0,0.0002790487185283924,0.0,5,9
+1574549228,Application of Neurosymbolic Integration for Environment Modelling in Mobile Robots,1998,0.0,0.0002790487185283924,0.0,4,10
+1576013060,Combining Topological and Qualitative Size Constraints for Spatial Reasoning,1998,0.016719745222929936,0.00536221812640525,0.0,12,26
+1576502567,Modes of Connection,1999,0.007165605095541401,0.0008707703846775091,0.000221398586247499,5,20
+1576756305,Representing mereotopological relations in OWL ontologies with ONTOPARTS,2012,0.0007961783439490446,0.0003158439213894181,4.1954710961803615e-05,5,16
+1579017347,Computational Complexity of Propositional Linear Temporal Logics Based on Qualitative Spatial or Temporal Reasoning,2002,0.00875796178343949,0.0013294943022794951,0.000564013209704392,13,32
+1580238622,Exploiting qualitative spatial neighborhoods in the situation calculus,2004,0.013535031847133758,0.001395194047735108,0.0015216000251614523,9,41
+1580419439,On the Computational Complexity of Spatial Logics with Connectedness Constraints,2008,0.004777070063694268,0.00042046838260434216,0.00016144583347110815,5,11
+1581647004,"Positions, regions, and clusters: strata of granularity in location modelling",2010,0.0007961783439490446,0.00034464109763139117,0.0,4,3
+1581773175,Foundations for an Ontology of Environment and Habitat,2010,0.0,0.0002790487185283924,0.0,14,3
+1582128480,"An ATP of a Relational Proof System for Order of Magnitude Reasoning with Negligibility, Non-closeness and Distance",2008,0.002388535031847134,0.0004124609946218569,1.797480988995187e-06,8,16
+1582172611,The double-cross and the generalization concept as a basis for representing and comparing shapes of polylines,2005,0.003980891719745223,0.00043636759287648435,2.9178062332070506e-05,9,11
+1582232005,Semantic Image Analysis Based on the Representation of the Spatial Relations Between Objects in Images,2004,0.0,0.0002790487185283924,0.0,7,0
+1582679018,A rule system for heterogeneous spatial reasoning in geographic information system,2005,0.0,0.0002790487185283924,0.0,12,0
+1582701269,Neighborhood Relations between Fields with Applications to Cellular Networks,2001,0.0,0.0002790487185283924,0.0,4,2
+1583108480,Solving constraints between lines in Euclidean geometry,2004,0.0007961783439490446,0.00031480712196837535,2.981703758215545e-06,12,2
+1583343450,Spatial reasoning with a hole,2007,0.009554140127388536,0.0009424756019493005,0.00042787690425890234,6,21
+1583439776,Automated ontology generation using spatial reasoning,2010,0.0,0.0002790487185283924,0.0,4,1
+1583582767,A tableau algorithm for description logics with concrete domains and GCIs,2005,0.0031847133757961785,0.001040134419933036,0.00042626034545440106,13,14
+1584874871,Towards a Theory of Space for Activity Recognition in Smart Environments Based on Rough Sets,2015,0.0,0.0002790487185283924,0.0,9,1
+1586571961,A framework for robust cognitive spatial mapping,2009,0.0007961783439490446,0.00045072453327331673,0.0,4,10
+1586633463,A calculus for shapes in time and space,2004,0.005573248407643313,0.0007959628889758703,0.000118654892108847,8,21
+1586895675,Describing Rigid Body Motions in a Qualitative Theory of Spatial Regions,2000,0.013535031847133758,0.0017313061574711808,0.00017708847059624787,5,33
+1589068194,Automated complexity proofs for qualitative spatial and temporal calculi,2008,0.003980891719745223,0.00046719334177978755,0.0008132545916126188,12,9
+1589935762,Formalizing Ontology Alignment and its Operations with Category Theory,2006,0.0031847133757961785,0.0004893996527798909,0.0,11,70
+1590074946,Combining OWL with RCC for Spatioterminological Reasoning on Environmental Data.,2007,0.009554140127388536,0.0014081629669695946,0.00029941109981849946,7,19
+1591092099,Heterogeneous spatial reasoning,2005,0.0,0.0002790487185283924,0.0,12,0
+1591817595,Qualitative change to 3-valued regions,2010,0.0015923566878980893,0.0003934436026445792,3.098162400443721e-05,9,6
+1592232227,Reasoning about distances,2003,0.004777070063694268,0.0007093840780919951,2.3346106021772782e-05,8,20
+1592285529,Spatio-temporal model checking for mobile real-time systems,2006,0.0007961783439490446,0.00033837054376019274,5.2927507440665e-06,8,4
+1592776862,The Retrieval of Direction Relations using R-trees,1994,0.002388535031847134,0.002387704569507759,0.0,4,40
+1593023030,Customizing qualitative spatial and temporal calculi,2007,0.0031847133757961785,0.0003767209287413741,0.0005459355203087232,12,12
+1593894899,Using 3D Fuzzy topological relationships for Checking of Spatial Relations between Dynamic Air Pollution Cloud and City Population Density,2006,0.0,0.0002790487185283924,0.0,14,0
+1594507658,Qualitative spatial reasoning with topological relations in the situation calculus.,2006,0.003980891719745223,0.00038238719584054786,1.096463403287064e-05,9,7
+1594913267,A Qualitative Theory of Motion Based on Spatio-Temporal Primitives.,1998,0.03901273885350319,0.004137322395843559,0.0002858095497445562,9,110
+1596930516,Categorical methods in qualitative reasoning: the case for weak representations,2005,0.007961783439490446,0.0004764116072667551,9.972716019004726e-05,12,16
+1597971116,TS-U: temporal-spatial methodology for application checking of the systems in the ubiquitous environment,2005,0.0,0.0002790487185283924,0.0,4,0
+1598732449,Towards the geo-spatial querying of the semantic web with ONTOAST,2007,0.0,0.0002790487185283924,0.0,4,10
+1599300354,Topological relationships between map geometries,2008,0.0,0.0002790487185283924,0.0,6,5
+1601893258,The Mereotopology of Discrete Space,1999,0.027070063694267517,0.0024948432095771643,0.00013103317850472526,5,90
+1602045242,On Ontology and Epistemology of Rough Location,1999,0.0031847133757961785,0.0006567590853719663,8.74258913281168e-05,14,17
+1602144883,The endpoint hypothesis: a topological-cognitive assessment of geographic scale movement patterns,2009,0.007165605095541401,0.0007657394837592888,0.00020188907045029603,6,24
+1602738066,A Qualitative Coordinate Language of Location of Figures within the Ground,1997,0.003980891719745223,0.0009997706528970915,6.147419923980811e-05,14,14
+1603473069,Topological relations between convex regions,2010,0.003980891719745223,0.00042840268084154,2.4129285558087714e-05,12,11
+1604159067,Introduction to reasoning about cyclic intervals,1999,0.005573248407643313,0.0006428765894350954,0.0,12,11
+1604366485,Structuring Information in a Distributed Hypermedia System,1996,0.0007961783439490446,0.00046257510358933444,0.0,14,1
+1606555018,Monodic fragments of first-order temporal logics: 2000-2001 A.D,2001,0.0031847133757961785,0.00037735343290133254,7.544430965396785e-06,5,967
+1606611695,A Qualitative Theory for Shape Representation,2006,0.0,0.0002790487185283924,0.0,6,1
+1606731359,Towards Cognitive Adequacy of Topological Spatial Relations,2000,0.01592356687898089,0.001962309091153806,0.00029767480148830974,9,46
+1607022924,Data Models and Query Languages for Linked Geospatial Data,2012,0.003980891719745223,0.0005700361170765452,0.0002637117040983306,7,29
+1608050335,Semantic modeling of temporal information in a database for biotope inventories,2009,0.0,0.0002790487185283924,0.0,7,0
+1608760455,Towards Learning Naive Physics by Visual Observation: Qualitative Spatial Representations,2001,0.0007961783439490446,0.00033837054376019274,1.5119987142724218e-05,9,5
+1608928399,Using Object Influence Areas to Quantitatively Deal with Neighborhood and Perception in Route Descriptions,2000,0.0,0.0002790487185283924,0.0,4,0
+1613507719,The Qualitative Structure of Built Environments,2001,0.0007961783439490446,0.0003185966020162593,1.9243619999830825e-05,9,12
+1617711586,Fusion of fuzzy spatial relations,2010,0.0,0.0002790487185283924,0.0,7,3
+1623132472,"Building Virtual Earth Observatories Using Ontologies, Linked Geospatial Data and Knowledge Discovery Algorithms",2012,0.0,0.0002790487185283924,0.0,7,14
+1636188677,Tight bounds for black hole search with scattered agents in synchronous rings,2013,0.0015923566878980893,0.00040560194568956643,0.0,3,12
+1646419323,Modes of concept definition and varieties of vagueness,2005,0.004777070063694268,0.0006014424706476238,1.0131755578313297e-05,14,13
+1658288637,An Ontology Approach to Product Disassembly,1997,0.0,0.0002790487185283924,0.0,4,21
+1658695185,Algebraic Properties of Qualitative Spatio-temporal Calculi,2013,0.004777070063694268,0.0004274222681814346,0.0003689472344447152,12,12
+1664281635,Contact Algebras and Region-based Theory of Space: Proximity Approach - II,2006,0.02070063694267516,0.0013326378764497114,6.676916205997333e-05,5,88
+1677477638,Continuous Shape Transformation and Metrics on Regions,2001,0.007961783439490446,0.0009632990563060425,2.9327085364830285e-05,9,17
+1705789527,Spatial Reasoning for Information Brokering,2001,0.0007961783439490446,0.00034607168488754944,1.5243343681184672e-06,9,5
+1704764871,From Rules to Constraint Programs with the Rules2CP Modelling Language,2009,0.0007961783439490446,0.00048541892175047,0.0,4,14
+1710084411,A Qualitative Hidden Markov Model for Spatio-temporal Reasoning,2007,0.0,0.0002790487185283924,0.0,9,3
+1716013926,Walling in strategy games via constraint optimization,2014,0.0,0.0002790487185283924,0.0,8,8
+1715730942,Enabling the geospatial Semantic Web with Parliament and GeoSPARQL,2012,0.004777070063694268,0.0005787510104453793,6.860939620347847e-05,7,127
+1733761130,Learning relational event models from video,2015,0.006369426751592357,0.0005714611633400121,0.0008369470451594113,11,29
+1750103848,Refinements and Independence: A Simple Method for Identifying Tractable Disjunctive Constraints,2000,0.0031847133757961785,0.0005984327513655576,4.447055849725426e-05,12,8
+1753116094,"Fundamental Cognitive Concepts of Space (and Time): Using Cross-Linguistic, Crowdsourced Data to Cognitively Calibrate Modes of Overlap",2013,0.0,0.0002790487185283924,0.0,6,8
+1753474538,Deriving Extensional Spatial Composition Tables,2010,0.0,0.0002790487185283924,0.0,12,0
+1765082532,Intelligent Mobile System for Improving Spatial Design Support and Security Inside Buildings,2016,0.0,0.0002790487185283924,0.0,11,2
+1766238102,Combining logic and probability in tracking and scene interpretation,2008,0.0,0.0002790487185283924,0.0,10,2
+1767429423,A multi-agent architecture for geosimulation of moving agents,2015,0.0,0.0002790487185283924,0.0,9,2
+1773969601,Extensionality of the RCC8 composition table,2002,0.01592356687898089,0.0012157274668696478,0.0008109833316479056,12,24
+1774579152,A methodology for automatic retrieval of similarly shaped machinable components,2001,0.0,0.0002790487185283924,0.0,4,7
+1778327568,A Logical Approach to Incorporating Qualitative Spatial Reasoning into GIS (Extended Abstract),1997,0.002388535031847134,0.0006713280467157984,3.324764242082232e-05,5,5
+1778492690,Points in Point-Free Mereotopology,2001,0.0,0.0002790487185283924,0.0,5,3
+1778654212,Case adaptation with qualitative algebras,2013,0.0015923566878980893,0.0003490218635486286,3.1720252746973887e-07,4,5
+1788083854,A New Approach to the Concepts of Boundary and Contact: Toward an Alternative to Mereotopology,2007,0.0,0.0002790487185283924,0.0,5,6
+1791197240,Representations for robot knowledge in the KnowRob framework,2017,0.0,0.0002790487185283924,0.0,4,40
+1792114350,Qualitative Theory of Shape and Structure,1999,0.002388535031847134,0.0003792490790709555,7.16939680829345e-07,5,3
+1798762375,A Categorical Axiomatisation of Region-Based Geometry,2001,0.015127388535031847,0.0013012542249054941,0.001103800707871213,5,41
+1800693550,Efficient methods for qualitative spatial reasoning,2001,0.045382165605095545,0.0045112784899646145,0.00032488870967087183,13,100
+1811491864,From expert knowledge to formal ontologies for semantic interpretation of the urban environment from satellite images,2013,0.0015923566878980893,0.00043724025247985997,3.796360408129891e-05,7,10
+1818950033,An ontology of meta-level categories,1994,0.002388535031847134,0.002032246714805063,0.0,5,143
+1821195502,Semantic and Qualitative Spatial Reasoning Based Road Network Modeling,2013,0.0,0.0002790487185283924,0.0,4,0
+1823596224,Convex solutions of RCC8 networks,2012,0.0031847133757961785,0.0003485056764691588,4.8524082981415445e-05,5,5
+1826151234,Query Pre-processing of Topological Constraints: Comparing a Composition-Based with Neighborhood-Based Approach,2003,0.007961783439490446,0.0008927527578445338,0.0002911078363726369,6,25
+1828437458,From GPS and virtual globes to spatial computing - 2020,2015,0.0007961783439490446,0.00032080066139720734,7.422612149722815e-05,8,7
+1829046237,Establishing similarity across multi-granular topological-relation ontologies,2009,0.002388535031847134,0.00046070077493326077,3.044643056252669e-05,6,4
+1835898370,An abstract theory and ontology of motion based on the regions connection calculus,2007,0.003980891719745223,0.00047588051577576523,2.7095137798819885e-05,9,12
+1836603884,Decentralized reasoning about gradual changes of topological relationships between continuously evolving regions,2011,0.002388535031847134,0.0004222682145584101,0.00023891694369020732,6,8
+1844356417,Atomicity vs. Infinite Divisibility of Space,1999,0.00875796178343949,0.0012101743198216835,0.00012826409220356507,5,36
+1846899425,Towards Spatial Reasoning in the Semantic Web: A Hybrid Knowledge Representation System Architecture,2007,0.011146496815286625,0.001541551542255957,0.0002607303963953883,7,27
+1852197782,Qualitative temporal and spatial reasoning revisited,2007,0.0,0.0002790487185283924,0.0,5,10
+1854318547,Relation variables in qualitative spatial reasoning,2004,0.0,0.0002790487185283924,0.0,12,0
+1864504696,Spatial query preprocessing in distributed GIS,2004,0.0007961783439490446,0.00036209544823126314,0.0,12,5
+1869081555,Analyzing information security awareness through networks of association,2010,0.0,0.0002790487185283924,0.0,2,5
+1870095163,Linking open spatiotemporal data in the data clouds,2010,0.0007961783439490446,0.00044311654225107105,3.223835020850779e-05,7,2
+1870571519,A causal perspective to qualitative spatial reasoning in the situation calculus,2006,0.0,0.0002790487185283924,0.0,9,2
+1873730544,A qualitative spatio-temporal abstraction of a disaster space,2005,0.0007961783439490446,0.0003459629463744242,0.0,9,1
+1875435483,Matching names and definitions of topological operators,2005,0.003980891719745223,0.000746018149394333,7.260161658491903e-06,6,13
+1887650794,Efficient storage of interactions between multiple moving point objects,2006,0.0,0.0002790487185283924,0.0,9,1
+1903836554,Learning symbolic representations of actions from human demonstrations,2015,0.0007961783439490446,0.0003581444855041262,0.0,4,30
+1904365786,Qualitative Spatial Reasoning in 3D: Spatial Metrics for Topological Connectivity in a Region Connection Calculus,2014,0.0,0.0002790487185283924,0.0,4,0
+1918148424,The family of conceptual neighborhood graphs for region-region relations,2010,0.00875796178343949,0.0006228996339068154,0.0006620104651438477,6,25
+1931182827,Incrementally Building Partially Path Consistent Qualitative Constraint Networks,2014,0.0,0.0002790487185283924,0.0,13,0
+1932317311,Towards Ontology-Based Formal Verification Methods for Context Aware Systems,2009,0.002388535031847134,0.00045142038304863183,0.00020240315655787523,4,24
+1932568972,Architecture for a grounded ontology of geographic information,2007,0.0007961783439490446,0.0003415992378153482,1.3676338304100646e-05,14,2
+1935934803,RCC8 is polynomial on networks of bounded treewidth,2011,0.011146496815286625,0.0007200344599136952,0.00030317668102975386,13,17
+1939065686,A metaheuristic approach for efficient and effective sketch-to-metric map alignment,2016,0.0015923566878980893,0.00034232533210897946,0.00014510253395476832,12,4
+1939586596,On the Problem of Boundaries from Mereology and Rough Mereology Points of View,2014,0.0,0.0002790487185283924,0.0,5,0
+1950763065,Representation and reasoning about general solid rectangles,2013,0.0007961783439490446,0.0002949540671424226,2.7130632358571335e-05,12,10
+1951324525,Qualitative and Quantitative Spatio-temporal Relations in Daily Living Activity Recognition,2014,0.0007961783439490446,0.0003265061787138327,4.954779003488624e-05,4,14
+1957259870,A More Efficient Representation of Obscuration for VRCC-3D+ Relations,2014,0.0,0.0002790487185283924,0.0,4,2
+1958661713,On Distributive Subalgebras of Qualitative Spatial and Temporal Calculi,2015,0.0015923566878980893,0.0003242082255455516,5.9042499741850164e-05,13,3
+1963829561,Mereotopology: a theory of parts and boundaries,1996,0.02070063694267516,0.0033736514268201453,0.000835794137322115,5,223
+1963907636,"Carnap, Goguen, and the Hyperontologies: Logical Pluralism and Heterogeneous Structuring in Ontology Design",2010,0.003980891719745223,0.0004757449324569531,0.00044424951098882945,11,48
+1964181660,Ontological Modularity and Spatial Diversity,2007,0.0015923566878980893,0.0003664233985975686,3.728188007789347e-05,11,14
+1964473901,Geospatial Ontology Development and Semantic Analytics,2006,0.007961783439490446,0.0007392033786760004,1.1543151023446403e-05,7,110
+1964808758,Reasoning about shadows in a mobile robot environment,2013,0.002388535031847134,0.00038457897900102635,0.00013582934093006957,10,7
+1965302493,A relation — algebraic approach to the region connection calculus,2001,0.04060509554140128,0.004201834415132421,0.0006197713487451085,12,86
+1965612379,Qualitative spatial reasoning about relative point position,2008,0.014331210191082803,0.0007959815921270866,0.0001622616583728186,12,50
+1966235665,Tesseral spatio-temporal reasoning for multi-dimensional data,2000,0.0,0.0002790487185283924,0.0,4,3
+1967153084,Solving conflicts in information merging by a flexible interpretation of atomic propositions,2011,0.0015923566878980893,0.0003447364421145549,3.732416406560594e-05,5,15
+1967545733,Reasoning with Qualitative Positional Information for Domestic Domains in the Situation Calculus,2012,0.003980891719745223,0.00034273924934690624,3.2039217510707345e-05,9,31
+1967970251,Pouring liquids: A study in commonsense physical reasoning,2008,0.006369426751592357,0.0006147777672111879,0.00021746638142116262,11,27
+1968947004,Solving Randomly Generated Static and Dynamic Fuzzy Constraint Networks using Microevolutionary Hill-Climbing,1997,0.0,0.0002790487185283924,0.0,4,6
+1969103236,AI Approaches to Cognitive Systems – The Example of Spatial Cognition,2011,0.0007961783439490446,0.00030252699066401996,2.1082925129906925e-05,12,1
+1969202060,On the improvement of combined fuzzy topological and directional relations information,2012,0.0015923566878980893,0.00034577895419178606,1.5709077550882307e-06,7,11
+1969383549,Surrounds in partitions,2014,0.005573248407643313,0.00046942964137035423,0.00043076136707583185,6,10
+1969434560,A modal logic framework for reasoning about comparative distances and topology,2010,0.0015923566878980893,0.00035043622437299103,0.0003576635128691235,5,18
+1969860356,A Relative Representation of Trajectories in Geogaphical Spaces,2007,0.0031847133757961785,0.0004547304968220236,3.062624731998193e-05,9,39
+1971144975,A COMMENT ON RCC: FROM RCC TO RCC++,2008,0.0015923566878980893,0.0004315905548387362,4.901410708120175e-05,5,10
+1971418835,Realizing RCC8 networks using convex regions,2015,0.0015923566878980893,0.00028737221246389255,6.354394647400967e-05,5,5
+1971622175,Cardinal directions: a comparison of direction relation matrix and objects interaction matrix,2015,0.002388535031847134,0.00034129440662517826,0.000100624332621912,12,6
+1971902491,Spatial data methods and vague regions: A rough set approach,2007,0.0007961783439490446,0.00032279449991384226,1.5130560560306543e-05,14,31
+1972145234,Representing situational knowledge acquired from sensor data for atmospheric phenomena,2014,0.0,0.0002790487185283924,0.0,7,11
+1972652425,A Qualitative-Probabilistic Approach to Autonomous Mobile Robot Self Localisation and Self Vision Calibration,2013,0.0015923566878980893,0.0003374758387141123,8.849950516405713e-06,10,4
+1973252589,Reasoning With Topological And Directional Spatial Information,2012,0.009554140127388536,0.0006408361638989205,0.0006313815320457568,12,18
+1973432184,Biomedical knowledge engineering tools based on experimental design: a case study based on neuroanatomical tract-tracing experiments,2009,0.0,0.0002790487185283924,0.0,4,3
+1973844969,Dependencies between ontology design parameters,2010,0.0,0.0002790487185283924,0.0,7,7
+1974107276,Dynamic logics of the region-based theory of discrete spaces,2007,0.0007961783439490446,0.00033539131027998935,0.0,5,10
+1974540193,Positioning localities based on spatial assertions,2009,0.0015923566878980893,0.00032317814294237975,2.1914163183480818e-05,14,32
+1974567918,Triangulation Versus Graph Partitioning for Tackling Large Real World Qualitative Spatial Networks,2014,0.002388535031847134,0.0003463911098933284,2.389359494641337e-05,13,3
+1974991139,"A conceptual analysis of information security education, information security training and information security awareness definitions",2014,0.0,0.0002790487185283924,0.0,2,11
+1974970170,Partitions to improve spatial reasoning,2014,0.0007961783439490446,0.00029902380235257017,4.807204303803893e-05,6,2
+1975082198,"SOWL: spatio-temporal representation, reasoning and querying over the semantic web",2010,0.004777070063694268,0.0005278810540775758,0.00017167180908312377,7,50
+1975503364,A Tableau Algorithm for Description Logics with Concrete Domains and General TBoxes,2007,0.02070063694267516,0.0013511194765200637,0.0005790936807100184,13,68
+1976644430,The k -independence number of direct products of graphs and Hedetniemi's conjecture,2011,0.0,0.0002790487185283924,0.0,1,7
+1977188957,Heterogeneous stream processing for disaster detection and alarming,2014,0.0007961783439490446,0.0003976923689919931,0.0,4,14
+1977908479,SpaceML: A Mark-up Language for Spatial Knowledge,2002,0.0007961783439490446,0.00035020085415250036,8.260155213742137e-05,12,10
+1978188545,Interpreting spatial language in image captions,2011,0.0,0.0002790487185283924,0.0,14,5
+1978188690,A Comparison of Inferences about Containers and Surfaces in Small-Scale and Large-Scale Spaces,2000,0.0015923566878980893,0.00044932095678989326,2.8046523561279826e-05,6,9
+1978720913,A generalized topological view of motion in discrete space,2003,0.0031847133757961785,0.0004298170114712891,1.54809938287493e-05,9,60
+1978752649,Impact of data representation rules on the robustness of topological relation evaluation,2015,0.0,0.0002790487185283924,0.0,6,4
+1979045974,On the design of formal theories of geographic space,1999,0.0,0.0002790487185283924,0.0,14,7
+1979397702,Two-dimensional fuzzy spatial relations: a new way of computing and representation,2012,0.0007961783439490446,0.0003581444855041262,9.057189501019277e-05,7,7
+1979448702,Exploiting qualitative spatial reasoning for topological adjustment of spatial data,2012,0.007165605095541401,0.0004733596534082224,0.0006009332691447237,13,10
+1979542431,A logical approach to representing and reasoning about space,1995,0.0015923566878980893,0.0004138760612158424,7.62872078564722e-06,5,8
+1980369541,Topologically Characterized Movement Patterns: A Cognitive Assessment,2009,0.0015923566878980893,0.00042478189158045817,6.010081602615924e-05,6,11
+1980800232,"SpatialML: annotation scheme, resources, and evaluation",2010,0.003980891719745223,0.0006697796849426776,0.00020665982680980016,9,45
+1981040079,The Expressivity of Quantifying over Regions,2006,0.009554140127388536,0.0007778875090857791,0.00029116809079869947,5,19
+1981053292,Querying spatio-temporal databases using a visual environment,2006,0.0,0.0002790487185283924,0.0,4,10
+1981237135,ε-connections of abstract description systems,2004,0.01035031847133758,0.001084144837098629,0.00029216812681513336,11,195
+1981246099,Constraint relaxation of the polygon-polyline topological relation for geographic pictorial query languages,2013,0.0,0.0002790487185283924,0.0,6,5
+1981370888,Collision avoidance with bipartite arrangements,2005,0.0031847133757961785,0.0005185050764543266,6.620926034037918e-05,9,5
+1981856605,Incremental qualitative temporal reasoning: algorithms for the point algebra and the ORD-Horn class,2005,0.002388535031847134,0.0003563696826203964,2.69272795843739e-05,13,18
+1982175848,Tractability Results in the Block Algebra,2002,0.00875796178343949,0.0006529925482205207,8.890504676320301e-05,12,28
+1982276524,On the consistency of cardinal direction constraints,2005,0.021496815286624206,0.0013368333303439715,0.0007601163053304778,12,61
+1983436120,Investigating Information Security Awareness: Research and Practice Gaps,2008,0.0015923566878980893,0.0005163360194555939,0.0,2,40
+1983778978,Spatio-Temporal Events in the Internet of Things,2010,0.0,0.0002790487185283924,0.0,4,5
+1984138225,A Qualitative Calculus for Three-Dimensional Rotations,2014,0.0,0.0002790487185283924,0.0,12,1
+1984234339,Prolegomena to a Cognitive Investigation of Euclidean Diagrammatic Reasoning,2013,0.0,0.0002790487185283924,0.0,4,7
+1984585638,A Model of Representing Extension and Shrinking for Spatial Relations,2011,0.0,0.0002790487185283924,0.0,6,0
+1985095752,Continuum: a spatiotemporal data model to represent and qualify filiation relationships,2013,0.0015923566878980893,0.00039204267135086926,0.00010899710502572938,7,17
+1986310818,Modal Logics Based on Mathematical Morphology for Qualitative Spatial Reasoning,2002,0.002388535031847134,0.000472270920142208,3.57618227857018e-05,5,22
+1986645298,A compact shape representation for linear geographical objects: the scope histogram,2006,0.0,0.0002790487185283924,0.0,9,4
+1987033997,Qualitative representation of spatial knowledge in two-dimensional space,1994,0.00875796178343949,0.00514280456044585,0.0001513387976135711,4,112
+1987152123,"Representation, reasoning and similar matching for detailed topological relations with DTString",2014,0.0,0.0002790487185283924,0.0,6,2
+1987214815,Ordering: A reliable qualitative information for the alignment of sketch and metric maps,2013,0.002388535031847134,0.00037527194498409986,8.434818002280635e-06,12,5
+1987520097,GNet: A generalized network model and its applications in qualitative spatial reasoning,2008,0.0007961783439490446,0.0002973015878304848,6.260973696962228e-06,12,4
+1987542405,Representation for topological relations of four simple regions,2012,0.0,0.0002790487185283924,0.0,6,0
+1987916013,A Qualitative Model of Dynamic Scene Analysis and Interpretation in Ambient Intelligence Systems,2009,0.002388535031847134,0.0005044142257461545,0.0006204192115539235,9,12
+1988384051,Extending an ontology-based search with a formalism for spatial reasoning,2008,0.002388535031847134,0.0004366207121960657,3.214318945026687e-06,7,6
+1988990104,Geographical Expression of Semantic Relations,2011,0.0,0.0002790487185283924,0.0,6,0
+1989123983,A framework for utilizing qualitative spatial relations between networked embedded systems,2010,0.0,0.0002790487185283924,0.0,9,10
+1991183254,"Formal ontology, conceptual analysis and knowledge representation",1995,0.00875796178343949,0.0030288612216019585,0.00011732811711471926,5,864
+1991353505,GIS-based multicriteria spatial modeling generic framework,2008,0.0,0.0002790487185283924,0.0,4,61
+1992704918,Directed movements in probabilistic time geography,2010,0.0,0.0002790487185283924,0.0,4,55
+1992710872,Qualitative Spatial Reasoning for Topological Map Learning,2010,0.006369426751592357,0.0005620794316205478,0.00021422573308712067,12,19
+1993695231,On redundant topological constraints,2015,0.011146496815286625,0.0005909725567442578,0.0012144141715791582,13,18
+1993981074,Modal Logics of Topological Relations,2006,0.01035031847133758,0.000900323350928308,0.0004190315919127892,5,27
+1994281017,The Qualitative Spatial Dynamics of Motion in Language,2011,0.0031847133757961785,0.00043677483769865823,0.00013309014747528208,9,20
+1994800675,A computational model of human-robot spatial interactions based on a qualitative trajectory calculus,2015,0.0,0.0002790487185283924,0.0,4,12
+1995219079,SketchMapia: Qualitative Representations for the Alignment of Sketch and Metric Maps,2014,0.002388535031847134,0.0003707170462820138,1.2313500018730053e-05,12,22
+1995543121,A semi-dynamical approach for solving qualitative spatial constraint satisfaction problems,2012,0.0007961783439490446,0.0002945473129296514,1.8257920460413752e-05,12,1
+1996079812,Revisiting the ‘Is GIScience a science?’ debate or quite possibly scientific gerrymandering,2013,0.0,0.0002790487185283924,0.0,4,11
+1996117093,Logic-based interpretation of geometrically observable changes occurring in dynamic scenes,2009,0.0015923566878980893,0.0003381770135239139,0.0001022265316838616,10,7
+1997045523,Ensuring semantic spatial constraints in virtual environments using UML/OCL,2010,0.0,0.0002790487185283924,0.0,4,10
+1997154853,Modal logics of some geometrical structures,2007,0.0,0.0002790487185283924,0.0,5,0
+1997458567,Revising Qualitative Constraint Networks: Definition and Implementation,2012,0.0015923566878980893,0.0003490218635486286,7.884652417984059e-05,4,3
+1997467039,Topological representation and reasoning in space,2000,0.0,0.0002790487185283924,0.0,6,1
+1997637604,Automatic search of geospatial features for disaster and emergency management,2010,0.0,0.0002790487185283924,0.0,4,41
+1999438008,Representing moving objects in computer-based expert systems: the overtake event example,2005,0.015127388535031847,0.0011339598661546581,0.0007571156396858396,9,53
+1999714552,Integrating multi-relations and multi-domains in qualitative spatial reasoning,2011,0.0,0.0002790487185283924,0.0,12,0
+1999806977,Spatial relations between indeterminate regions,2001,0.018312101910828025,0.002021906976311255,0.00043280625259570937,14,60
+1928076360,Relations between spatial calculi about directions and orientations,2015,0.0015923566878980893,0.00028737221246389255,1.6745732662321084e-05,12,4
+1965594853,Towards a mathematical theory of knowledge,2005,0.0,0.0002790487185283924,0.0,4,23
+1995923431,Spatial planning on the semantic web,2010,0.0,0.0002790487185283924,0.0,7,7
+2000404222,Modeling geospatial barriers,2011,0.0,0.0002790487185283924,0.0,6,1
+2000768282,Formalizing natural-language spatial relations between linear objects with topological and metric properties,2007,0.004777070063694268,0.0006730779051740476,0.000144287877304854,6,32
+2001125833,Consistency of Qualitative Constraint Networks from Tree Decompositions,2011,0.0031847133757961785,0.0003831474841209625,8.280221820963313e-07,13,5
+2002125680,An inference system for relationships between spatial granularities,2011,0.0007961783439490446,0.00033837054376019274,2.897116417556948e-05,6,3
+2002178005,On standard models of fuzzy region connection calculus,2011,0.0007961783439490446,0.00030277744862111254,1.5662592326686872e-05,14,5
+2003769268,Towards the Semantic Representation of Biological Images: From Pixels to Regions,2013,0.0,0.0002790487185283924,0.0,5,6
+2003825675,Axiomatisation and decidability of multi-dimensional Duration Calculus,2007,0.0007961783439490446,0.000320143300770992,1.2688101098789555e-06,8,7
+2004248511,Operations on network-based space layouts for modeling multiple space views of buildings,2014,0.0007961783439490446,0.00030277744862111254,0.0,11,3
+2005319088,Using Ontologies to Reduce the Semantic Gap between Historians and Image Processing Algorithms,2011,0.0,0.0002790487185283924,0.0,4,5
+2005560459,Qualitative Spatial Reasoning Using Topological and Directional Information in OWL,2012,0.0031847133757961785,0.00040356540250865454,0.00011796503693346472,7,18
+2005929713,"Spatial chromatic tessellation: conception, interpretation, and implication",2010,0.0,0.0002790487185283924,0.0,4,3
+2006280605,Spatial Vagueness and Second-Order,2003,0.0,0.0002790487185283924,0.0,4,11
+2006539967,Relations between adjacency trees,2011,0.0031847133757961785,0.0006039545569007576,0.00044333273923980615,6,10
+2006627081,Generalized region connection calculus,2004,0.027070063694267517,0.0021013312116755223,0.0026621409005497714,5,47
+2006743110,A conceptual framework for geographic knowledge engineering,2014,0.0007961783439490446,0.0004253108518654539,8.754789758164793e-05,4,21
+2007171636,A spatio-temporal ontology for geographic information integration,2009,0.004777070063694268,0.000667968016004731,4.272743219821149e-05,7,59
+2008361377,Semantic adaptation of multimedia documents,2011,0.0015923566878980893,0.0005325763563802871,0.00012180577054837972,4,21
+2008576025,Spatio-Temporal Footprints,2010,0.0,0.0002790487185283924,0.0,4,0
+2009758889,"Space, time, matter and things",2001,0.007961783439490446,0.0010507317029678292,0.00025329989915168265,5,32
+2011885148,A model of fuzzy spatio-temporal knowledge representation and reasoning based on high-level Petri nets,2012,0.002388535031847134,0.00035463762684115514,8.785588049741625e-05,7,25
+2011945332,Qualitative Spatial Reasoning in Interpreting Text and Narrative,2013,0.005573248407643313,0.00047387856620772194,0.0,11,17
+2012679821,Spatial reasoning with augmented points: Extending cardinal directions with local distances,2012,0.009554140127388536,0.0005248003712005286,0.0003005414940211348,12,21
+2015428026,Metric details for natural-language spatial relations,1998,0.015127388535031847,0.0019395479731330325,2.7419373427062414e-05,6,104
+2015594732,Region connection calculus: its models and composition table,2003,0.037420382165605094,0.002740688251440087,0.001292423583493182,12,72
+2016033687,Spatial reasoning in a fuzzy region connection calculus,2009,0.021496815286624206,0.0015761791793410375,0.0013596683068475826,14,60
+2016226879,Towards a probabilistic time geography,2009,0.0007961783439490446,0.0003976923689919931,0.0,4,14
+2016597310,CHOROS 2: Improving the Performance of Qualitative Spatial Reasoning in OWL,2014,0.0031847133757961785,0.00042594085719761235,4.252323989299653e-05,7,4
+2016627289,Composing cardinal direction relations,2004,0.02786624203821656,0.0017859801894658301,0.0008583499506565564,12,131
+2016802030,Modelling movement patterns using topological relations between a directed line and a region,2014,0.0007961783439490446,0.0003581444855041262,9.026526590030537e-05,4,4
+2017262716,Global machine learning for spatial ontology population,2015,0.0007961783439490446,0.00033837054376019274,5.80541044798664e-05,6,23
+2017914455,Robot Controllers for Highly Dynamic Environments with Real-time Constraints,2010,0.002388535031847134,0.0003782482297763704,5.973980934013415e-06,9,14
+2018025971,The elements of probabilistic time geography,2011,0.0,0.0002790487185283924,0.0,4,47
+2018605094,Towards a Spatial Representation for the Meta Cognitive Process Layer of Cognitive Informatics,2007,0.0,0.0002790487185283924,0.0,6,3
+2018673531,"Spatial reasoning under imprecision using fuzzy set theory, formal logics and mathematical morphology",2006,0.01035031847133758,0.0007546976350640333,0.0003825105509045535,14,52
+2018826618,A Graphical Language to Integrate Process Algebra and State Machine Views for Specification and Verification of Distributed Real-Time Systems,2012,0.0,0.0002790487185283924,0.0,4,1
+2018853399,Logical Image Modelling and Retrieval,1996,0.0,0.0002790487185283924,0.0,4,2
+2019145653,An automata-theoretic approach to constraint LTL,2007,0.002388535031847134,0.00034536867445695527,0.0007781510445932376,13,64
+2019526722,Modeling consistency of spatio-temporal graphs,2013,0.0031847133757961785,0.0005110991797634459,0.00045682478127855855,6,37
+2020726365,A Joint Content-Event Model for Event-Centric Multimedia Indexing,2010,0.0,0.0002790487185283924,0.0,4,14
+2021851523,An ontology for context-aware pervasive computing environments,2003,0.005573248407643313,0.0010465771402783145,0.0,4,543
+2022447689,Guiding the Generation of Manipulation Plans by Qualitative Spatial Reasoning,2011,0.0031847133757961785,0.0003620811012009099,0.0001334884798969286,12,15
+2022614321,Multi-granularity and metric spatial reasoning,2014,0.0,0.0002790487185283924,0.0,12,1
+2022915841,Boolean connection algebras: a new approach to the Region-Connection Calculus,2000,0.04140127388535032,0.003452020623558422,0.0011658439666227354,5,100
+2023448752,"Spatial relations, minimum bounding rectangles, and spatial data structures",1997,0.011146496815286625,0.0010825595925728266,0.0005071517209271933,4,158
+2024030426,QRPC: A new qualitative model for representing motion patterns,2013,0.002388535031847134,0.0003111009425566127,3.7170982426584215e-05,9,7
+2024372355,Human factors in GIScience laboratory at the Pennsylvania State University,2009,0.0,0.0002790487185283924,0.0,6,2
+2024789505,TDD: A Comprehensive Model for Qualitative Spatial Similarity Assessment,2006,0.004777070063694268,0.0005927345939860218,4.770423915499663e-05,6,71
+2025009986,Ontological Representation of Light Wave Camera Data to Support Vision-Based AmI,2012,0.0,0.0002790487185283924,0.0,7,2
+2025214884,A topological constraint language with component counting,2002,0.01035031847133758,0.0006913817304406554,7.162747844901353e-05,5,16
+2025364155,Qualitative matching of spatial information,2010,0.009554140127388536,0.0006401977921919117,0.0001198097876678559,12,30
+2025587368,Logic-Based Modeling Approaches for Qualitative and Hybrid Reasoning in Dynamic Spatial Systems,2015,0.0,0.0002790487185283924,0.0,9,3
+2026361489,Defining and Comparing Content Measures of Topological Relations,2004,0.003980891719745223,0.0006119649601396745,4.415006035910951e-05,6,10
+2026531504,Qualitative representation of positional information,1997,0.06050955414012739,0.004987096424024511,0.00032971892528296885,9,250
+2026576084,Elementary Polyhedral Mereotopology,2002,0.004777070063694268,0.0009654152708817904,2.0662945469879464e-05,5,8
+2026669334,Flexible software architectures for ontology-based information systems,2009,0.005573248407643313,0.0006923812266360948,0.0003681410652094794,7,30
+2026989939,On scene interpretation with description logics,2008,0.007165605095541401,0.0010669981325754762,1.2688101098789555e-05,7,164
+2027015334,Vague Reference and Approximating Judgments,2003,0.002388535031847134,0.0003480303630453375,8.427064162720264e-05,14,20
+2027670862,Representing short-term observations of moving objects by a simple visual language,2008,0.003980891719745223,0.0005919239381101625,0.00019925989921802849,9,13
+2027971459,Towards a universal ontology for smart environments,2009,0.0,0.0002790487185283924,0.0,4,7
+2028129094,Towards a Semi-automatic Semantic Approach for Satellite Image Analysis☆☆☆,2013,0.0,0.0002790487185283924,0.0,7,5
+2028232494,RCC8 binary constraint network can be consistently extended,2006,0.013535031847133758,0.000981111975933051,0.00027601029135337636,12,23
+2028525047,Ordering: A Reliable Qualitative Information for the Alignment of Sketch and Metric Maps,2014,0.0,0.0002790487185283924,0.0,12,2
+2029960453,Heuristic to build RCC8 for event locations,2014,0.0,0.0002790487185283924,0.0,14,0
+2029982687,A new modal logic for reasoning about space: spatial propositional neighborhood logic,2007,0.0015923566878980893,0.00034786203579728083,6.540414018780804e-06,5,6
+2030260757,On the use and effect of graph decomposition in qualitative spatial and temporal reasoning,2015,0.0007961783439490446,0.00031123439191483183,3.88882003993339e-05,13,1
+2030325309,Research on Technologies of Spatial Configuration Information Retrieval,2007,0.0,0.0002790487185283924,0.0,4,5
+2030953226,Evaluating situation awareness of autonomous systems,2008,0.0,0.0002790487185283924,0.0,4,17
+2031215408,Counter-Example Construction with Euler Diagrams,2015,0.0,0.0002790487185283924,0.0,12,3
+2031514991,A new approach to cyclic ordering of 2D orientations using ternary relation algebras,2000,0.02786624203821656,0.002729720941866461,0.0004189573460620979,12,67
+2032685542,Analyzing Qualitative Spatio-Temporal Calculi using Algebraic Geometry,2012,0.0031847133757961785,0.0004263950474826595,0.00013123827170690336,12,6
+2032774215,Language and Space: a two-level semantic approach based on principles of ontological engineering,2010,0.002388535031847134,0.00044751994503367367,0.00019944335487893737,11,27
+2033354158,Qualitative spatial representation and reasoning for data integration of ocean observing systems,2011,0.0,0.0002790487185283924,0.0,9,1
+2033522852,Qualitative spatial reasoning: cardinal directions as an example,1996,0.04777070063694268,0.005692905615331367,0.0002384515601551913,4,299
+2033717178,Topological Spatio–Temporal Reasoning and Representation,2002,0.01751592356687898,0.0015010632443603449,0.00041438531291903934,9,78
+2034159722,A standard ontology for smart spaces,2010,0.0,0.0002790487185283924,0.0,4,31
+2034403194,Spatial Knowledge Representation on the Semantic Web,2010,0.005573248407643313,0.0007578911075263294,0.0003683028725585176,7,15
+2035102364,Context-based scene recognition from visual data in smart homes: an Information Fusion approach,2012,0.0007961783439490446,0.0003185966020162593,5.3535499145341535e-06,7,38
+2035706500,Thick 2D relations for document understanding,2004,0.0,0.0002790487185283924,0.0,4,3
+2036895848,Global Feature Schemes in Spatial and Temporal Reasoning,2008,0.0,0.0002790487185283924,0.0,9,2
+2037189684,Combining topological and size information for spatial reasoning,2002,0.04140127388535032,0.003379943081076223,0.002517548022723323,12,104
+2037294226,Line-based affine reasoning in Euclidean plane,2007,0.0007961783439490446,0.00031480712196837535,8.934537857064311e-06,12,5
+2037341072,Introduction: progress in formal commonsense reasoning,2004,0.0007961783439490446,0.0003399948905449921,0.0,11,23
+2038827682,Topological and Geometric Operators for Ontological Classification of Vague Geographic Concepts,2005,0.0015923566878980893,0.0004583321750675686,0.0007210625478794841,6,9
+2039189543,Reasoning about Depth and Motion from an Observer's Viewpoint,2007,0.002388535031847134,0.00036273515150664543,0.00014483041721222753,10,14
+2039197980,Learning Behaviors of and Interactions Among Objects Through Spatio–Temporal Reasoning,2015,0.0,0.0002790487185283924,0.0,4,5
+2039520924,A logic framework for reasoning with movement based on fuzzy qualitative representation,2014,0.0007961783439490446,0.00030062029133995615,4.1546230405443244e-05,8,9
+2039793182,Fuzzy spatial relation ontology driven detection of complex geospatial features in a web service environment,2015,0.0,0.0002790487185283924,0.0,7,4
+2039868847,Default reasoning about spatial occupancy,1995,0.014331210191082803,0.003688384936714825,0.0,9,67
+2040094191,Using spatial logic to describe visual languages,1996,0.004777070063694268,0.0017969992322124358,0.0,9,24
+2040546296,A unifying semantics for time and events,2004,0.009554140127388536,0.000830196064138335,0.0005709017401223848,9,67
+2041241584,Exploring an unknown dangerous graph with a constant number of tokens,2016,0.0,0.0002790487185283924,0.0,3,5
+2043785359,A Qualitative Representation of a Figure and Construction of Its Planar Class,2015,0.0,0.0002790487185283924,0.0,4,0
+2045682179,A semantic web based gazetteer model for VGI,2012,0.0,0.0002790487185283924,0.0,4,5
+2046015030,Combining interval-based temporal reasoning with general TBoxes,2004,0.004777070063694268,0.0011028709354094898,0.0,13,26
+2046364222,Supporting the designer's and the user's perspectives in computer-aided architectural design,2010,0.0,0.0002790487185283924,0.0,4,16
+2046428581,Uncertain topological relations between imprecise regions,2000,0.003980891719745223,0.0007834721301016862,1.1509920282473382e-05,14,45
+2047204405,Efficient algorithms for spatial configuration information retrieval,2009,0.0007961783439490446,0.00029902380235257017,2.960556923050896e-06,14,5
+2047493499,Design and comparison of lattices of topological relations for spatial representation and reasoning,2003,0.003980891719745223,0.0005953411596546666,0.0012627754770330965,7,12
+2048053751,Rank-based strategies for cleaning inconsistent spatial databases,2015,0.0,0.0002790487185283924,0.0,6,5
+2048892526,A Statistical Model for Directional Relations Between Spatial Objects,2008,0.0015923566878980893,0.0003593155147529201,6.775469225034023e-06,4,15
+2049327331,The psychological validity of qualitative spatial reasoning in one dimension,2004,0.003980891719745223,0.0003854005203486878,2.681250790179168e-05,12,24
+2050586250,Visual analogy: Viewing analogical retrieval and mapping as constraint satisfaction problems,2006,0.0,0.0002790487185283924,0.0,6,25
+2050643532,Consistency of Chordal RCC-8 Networks,2012,0.015127388535031847,0.0008362396539554436,0.00033542287314519594,13,20
+2051583779,"Geographic Ontologies, Gazetteers and Multilingualism",2015,0.0015923566878980893,0.0005163360194555939,6.978455604334255e-05,4,12
+2052521980,Computing the fuzzy topological relations of spatial objects based on induced fuzzy topology,2006,0.007165605095541401,0.0008634524333535819,4.557923396898706e-05,14,40
+2052729678,Computer aided architectural design: Wayfinding complexity analysis,2008,0.0,0.0002790487185283924,0.0,4,4
+2053263494,Identifying factors of geographic event conceptualisation,2008,0.005573248407643313,0.0006964595458211932,5.4630862694407255e-05,6,37
+2053411403,Event-based topology for dynamic planar areal objects,2009,0.007961783439490446,0.0009510674978369885,0.0,6,50
+2053491244,An Automatic Decomposition Method for Qualitative Spatial and Temporal Reasoning,2012,0.0007961783439490446,0.0003125191916446812,1.883627583059156e-05,12,3
+2054275793,Topological properties in ontology-based applications,2011,0.0015923566878980893,0.0003862039721100979,5.6167545072920196e-05,7,5
+2054593278,On Topological Consistency and Realization,2006,0.021496815286624206,0.0014139491764014055,0.000518343893420844,12,32
+2054675268,Modelling dynamic spatial systems in the situation calculus,2008,0.018312101910828025,0.0014091425617441067,0.0005880611378036372,9,35
+2055030501,Spatial and temporal knowledge representation,2009,0.01592356687898089,0.0010162852388485508,0.0010017664954035715,6,62
+2055544205,Directional relative position between objects in image processing: a comparison between fuzzy approaches,2003,0.004777070063694268,0.0007561490491492881,1.9521925647727872e-05,7,55
+2055595236,Qualitative constraint satisfaction problems: An extended framework with landmarks,2013,0.007961783439490446,0.0004995014906645544,0.00036335082888896785,12,18
+2055829193,Fuzzy spatial relations,1997,0.0,0.0002790487185283924,0.0,9,4
+2055865360,Topological Logics with Connectedness over Euclidean Spaces,2013,0.0007961783439490446,0.0003087096311442926,1.1699509441027445e-05,5,8
+2056126323,SCAIL: An integrated Starcraft AI system,2012,0.0015923566878980893,0.00040384595013708436,2.537620219757911e-06,4,12
+2056302882,Computer-human interaction issues when integrating qualitative spatial reasoning into geographic information systems,2006,0.0007961783439490446,0.0002930067950535219,5.286708791162314e-07,4,14
+2056433792,Context-dependent 'near' and 'far' in spatial databases via supervaluation,2013,0.0,0.0002790487185283924,0.0,14,3
+2057304603,On Finding Approximate Solutions of Qualitative Constraint Networks,2013,0.0007961783439490446,0.0002969923873477109,0.0001467420589227997,12,2
+2061100549,A Canonical Model of the Region Connection Calculus,2002,0.039808917197452234,0.0034494606967650204,0.002000805624855902,5,69
+2061823525,Spatial queries with qualitative locations in spatial information systems,2006,0.006369426751592357,0.0006654270470018282,0.00011050363922315605,14,50
+2061890302,Ontology-based state representation for intention recognition in cooperative human-robot environments,2012,0.0015923566878980893,0.00039590295889983216,6.0187920847194575e-06,4,6
+2062592837,Spatial Intelligence: Ready for a Challenge?,2009,0.0,0.0002790487185283924,0.0,4,5
+2062792272,Logics for geographic information,1999,0.0,0.0002790487185283924,0.0,5,2
+2063141940,Managing the introduction of information security awareness programmes in organisations,2015,0.0,0.0002790487185283924,0.0,2,28
+2063572150,Multimedia information retrieval based on spatiotemporal relationships using description logics for the semantic web,2006,0.002388535031847134,0.0003514163014248937,1.619384449839147e-05,7,7
+2063863745,Ontology-based state representations for intention recognition in human-robot collaborative environments,2013,0.0007961783439490446,0.00033837054376019274,6.0187920847194575e-06,4,11
+2064177716,Qualitative Relational Mapping for Mobile Robots with Minimal Sensing,2014,0.0007961783439490446,0.00033837054376019274,2.4947978785494962e-05,12,3
+2064483401,Exploration and Surveillance in Multi-robots Networks,2011,0.0,0.0002790487185283924,0.0,3,3
+2064506658,Uncertainty handling in spatial relationships,2000,0.0015923566878980893,0.00039385791879450544,4.599436648311214e-06,4,21
+2064582509,Modelling mammographic microcalcification clusters using persistent mereotopology,2014,0.0007961783439490446,0.0003581444855041262,9.040272032887557e-05,5,19
+2064724342,Qualitative reasoning with directional relations,2010,0.014331210191082803,0.0007450677630765241,0.00024425334908393113,12,29
+2065223589,Spatial proximity is more than just a distance measure,2012,0.0015923566878980893,0.0003976923689919931,7.816547707937563e-06,10,16
+2065439275,Formalization and reasoning about spatial semantic integrity constraints,2012,0.005573248407643313,0.0006496987864951584,0.00017977075622290937,6,9
+2066234959,Exploring an unknown dangerous graph using tokens,2013,0.0015923566878980893,0.00040560194568956643,6.344050549394777e-07,3,21
+2066369330,Image retrieval through qualitative representations over semantic features,2015,0.0,0.0002790487185283924,0.0,6,5
+2066676451,"Parts, wholes, and part-whole relations: the prospects of mereotopology",1996,0.024681528662420384,0.004793271483838204,0.0001561761320410226,5,201
+2069406896,Formally grounding spatio-temporal thinking,2012,0.0007961783439490446,0.0003185966020162593,1.6970335219631027e-05,6,2
+2069932362,Qualitative Spatial and Temporal Reasoning with Answer Set Programming,2012,0.0015923566878980893,0.0003267507698101708,7.922096451543245e-05,12,8
+2069966784,Leveraging OWL for GIS interoperability: rewards and pitfalls,2009,0.0,0.0002790487185283924,0.0,4,4
+2070737868,A review of approaches for representing RCC8 in OWL,2010,0.0015923566878980893,0.0003929273478536495,2.649396348485343e-06,7,4
+2071120002,Spatial Representation of Coastal Risk: A Fuzzy Approach to Deal with Uncertainty,2014,0.0,0.0002790487185283924,0.0,14,8
+2071247579,Cloud based low cost educational robot,2013,0.0,0.0002790487185283924,0.0,4,1
+2071730540,Mereotopology in 2nd-Order and Modal Extensions of Intuitionistic Propositional Logic,2002,0.0,0.0002790487185283924,0.0,5,1
+2072408160,On Orders in Visual Interaction,1999,0.0,0.0002790487185283924,0.0,4,2
+2073699349,Efficient determination of spatial relations using composition tables and decision trees,2013,0.0015923566878980893,0.0003976923689919931,3.1091889644938594e-05,4,5
+2074747250,Relational approach for a logic for order of magnitude qualitative reasoning with negligibility non-closeness and distance,2009,0.0015923566878980893,0.00038303776104294863,3.70069615381362e-07,8,15
+2074902549,Robustness of spatial relation evaluation in data exchange,2012,0.0007961783439490446,0.0003976923689919931,3.42578729667318e-05,4,5
+2075389410,Reasoning about cardinal directions between extended objects: The NP-hardness result,2011,0.007961783439490446,0.00048716615890089096,5.516323304129593e-05,12,14
+2076589559,A Stimulus-Response Framework for Robot Control,2015,0.0,0.0002790487185283924,0.0,4,5
+2076684429,"Formal ontology, common sense and cognitive science",1995,0.0015923566878980893,0.00035055905487161454,0.0,9,72
+2076905458,Reasoning about visibility,2012,0.0007961783439490446,0.0003439677409569701,2.960556923050896e-06,5,2
+2078167098,Fuzzy temporal and spatial reasoning for intelligent information retrieval,2007,0.0,0.0002790487185283924,0.0,14,0
+2078356254,Preserving local topological relationships,2006,0.0,0.0002790487185283924,0.0,6,8
+2078367023,Measuring consistency with respect to topological dependency constraints,2010,0.004777070063694268,0.0007484167807475454,0.00023969937659129936,6,13
+2078827640,Towards logic-based geospatial feature discovery and integration using web feature service and geospatial semantic web,2010,0.0007961783439490446,0.0003581444855041262,0.0,4,39
+2079249289,A survey of qualitative spatial representations,2015,0.019108280254777073,0.001363869320982452,0.003138152627686729,12,54
+2079587328,Simulation-based approach for avoiding external faults,2013,0.0007961783439490446,0.0003581444855041262,0.0,4,6
+2079856551,Fuzzy Region Connection Calculus: Representing Vague Topological Information,2008,0.01194267515923567,0.000872412321898218,0.0005153956673836232,14,28
+2081388644,On robust interpretation of topological relations in identity and tolerance models,2013,0.0,0.0002790487185283924,0.0,4,1
+2082314565,Relational proof systems for spatial reasoning,2006,0.0,0.0002790487185283924,0.0,4,2
+2082534709,Consistent query answering under spatial semantic constraints,2013,0.0015923566878980893,0.0003325709664454471,1.8400767569696947e-05,6,11
+2082804723,The tale of Peter Rabbit: a case-study in story-sense reasoning,2007,0.0,0.0002790487185283924,0.0,4,5
+2084127631,The Space within Fisherman's Folly: Playing with a Puzzle in Mereotopology,2008,0.0007961783439490446,0.00036396446611948295,9.325754307610323e-05,10,8
+2084839236,Spatial Relations Using High Level Concepts,2012,0.002388535031847134,0.0004098808801034149,1.496541384759214e-05,6,10
+2085320737,Decentralized querying of topological relations between regions monitored by a coordinate-free geosensor network,2013,0.0007961783439490446,0.00030541397418697034,1.332196392718635e-05,6,3
+2085491336,Reasoning about vague topological information,2007,0.004777070063694268,0.0005864214673182943,0.0004276828311959595,14,8
+2085527863,Binary string relations: a foundation for spatiotemporal knowledge representation,1999,0.0007961783439490446,0.0003660146985854283,4.4408353845763444e-06,4,4
+2086333236,Adaptive content recommendation for mobile users: Ordering recommendations using a hierarchical context model with granularity,2014,0.0,0.0002790487185283924,0.0,4,16
+2086449512,"Space, Language and Ontology: A Response to Davis",2013,0.0007961783439490446,0.00032467345475683255,3.660511709525844e-05,11,3
+2087302006,Topological relations between fuzzy regions in a fuzzy topological space,2010,0.002388535031847134,0.00035249478786300234,6.682399912029165e-06,6,15
+2088460125,"Qualitative Spatial and Temporal Reasoning: Emerging Applications, Trends, and Directions",2011,0.015127388535031847,0.0011463036509882488,0.0011215154188806895,11,40
+2088635577,Granular Rough Theory: A representation semantics oriented theory of roughness,2009,0.0,0.0002790487185283924,0.0,5,7
+2088926443,Is Model-Based Robot Programming a Mirage? A Brief Survey of AI Reasoning in Robotics,2014,0.0,0.0002790487185283924,0.0,4,1
+2090076725,Combining and automating classical and non-classical logics in classical higher-order logics,2011,0.0,0.0002790487185283924,0.0,4,14
+2090495602,A point-set-based approximation for areal objects: A case study of representing localities,2010,0.0007961783439490446,0.0003087096311442926,5.581707141709173e-05,14,18
+2091205521,An attempt to formalise a non-trivial benchmark problem in common sense reasoning,2004,0.002388535031847134,0.0005501161346891284,1.783383098885421e-06,4,23
+2091277455,On the Relevance of Conceptual Spaces for Spatial and Temporal Reasoning,2005,0.0007961783439490446,0.000298365930487589,8.332012053632444e-06,12,3
+2091395166,Qualitative Spatial Reasoning with Conceptual Neighborhoods for Agent Control,2007,0.01194267515923567,0.000752190935086859,0.0007754235880234135,9,40
+2091581165,Spatio-temporal Validation of Multimedia Documents,2015,0.0015923566878980893,0.0004570141942237934,4.1236328571066056e-05,4,5
+2091745265,A Logic-based Formalism for Reasoning about Visual Representations,1999,0.0007961783439490446,0.00029955612320485103,6.3506124167245934e-06,7,10
+2093087142,Tractable Fragments of Fuzzy Qualitative Algebra,2008,0.0,0.0002790487185283924,0.0,12,2
+2093600261,An inconsistency measure of spatial data sets with respect to topological constraints,2014,0.0007961783439490446,0.00030062029133995615,0.0,6,10
+2094641354,On the complemented disk algebra,2006,0.004777070063694268,0.00045887121181039417,0.00010914313742794428,12,8
+2095275588,A complete classification of topological relations using the 9‐intersection method,2006,0.007961783439490446,0.0006306004941911476,0.00023162330412825955,6,41
+2095491168,Spatiotemporal Aspects of the Monitoring of Complex Events for Public Security Purposes,2011,0.0,0.0002790487185283924,0.0,12,3
+2095688190,Fuzzy Conceptual Graphs for Handling Uncertainty in Semantic Video Retrieval,2009,0.0007961783439490446,0.0003581444855041262,0.0,4,4
+2096006411,The complexity of reasoning about spatial congruence,1999,0.012738853503184714,0.001101896959682796,0.00034833217330174077,12,29
+2096485306,Deductive Generation of Constraint Propagation Rules,2003,0.0,0.0002790487185283924,0.0,4,4
+2096894676,Combining topological and directional information for spatial reasoning,2007,0.01592356687898089,0.0009450732850318593,0.0004660614003242106,12,38
+2097019928,Learning By Observation Using Qualitative Spatial Relations,2015,0.0015923566878980893,0.0003350748868028705,1.3501293032848339e-05,9,8
+2097167419,Fuzzy spatial relation ontology for image interpretation,2008,0.007165605095541401,0.0007681162548422943,0.000440076527297033,7,171
+2097316590,An inconsistency tolerant approach to querying spatial databases,2008,0.003980891719745223,0.0006410010018549841,0.00018132353811928505,6,11
+2097866017,Querying Incomplete Geospatial Information in RDF,2013,0.004777070063694268,0.00043290013531776584,0.0002152948574425191,13,7
+2098163404,Precise modeling and verification of topological integrity constraints in spatial databases: from an expressive power study to code generation principles,2005,0.0015923566878980893,0.0006359717570187286,0.0,6,20
+2098201806,Learning spatial relationships between objects,2011,0.0015923566878980893,0.0003087967927123984,0.0,5,58
+2098655919,A Modal Walk Through Space,2002,0.01592356687898089,0.0019675937125342617,0.0005079256089965965,5,67
+2099007301,A fuzzy sets theoretic approach to approximate spatial reasoning,2004,0.006369426751592357,0.000573517026852611,0.00017353362950323336,14,30
+2099340355,Selecting ghosts and queues from a car trackers output using a spatio-temporal query language,2004,0.0,0.0002790487185283924,0.0,8,2
+2100344730,Research on Real-Time Mobile 3D Topography System,2009,0.0,0.0002790487185283924,0.0,4,0
+2100960469,"Expressivity in polygonal, plane mereotopology",2000,0.01194267515923567,0.0018351900158296074,4.9489946725660506e-05,5,30
+2101498861,Ontology Based Spatial Planning for Human-Robot Interaction,2010,0.0,0.0002790487185283924,0.0,4,12
+2103167267,An Ontology-based Multi-level Robot Architecture for Learning from Experiences,2013,0.0,0.0002790487185283924,0.0,7,25
+2103428836,Merging Qualitative Constraint Networks in a Piecewise Fashion,2009,0.002388535031847134,0.0003951332123144331,6.661253076864516e-06,4,5
+2103930423,Reasoning about Topological and Positional Information in Dynamic Settings,2008,0.0015923566878980893,0.0003146917845139784,3.031277524070683e-05,12,4
+2104341726,Object-based representation and classification of spatial structures and relations,2002,0.0,0.0002790487185283924,0.0,7,4
+2104651808,A genetic algorithm for searching spatial configurations,2005,0.0007961783439490446,0.00029898034215484446,1.7272432864840302e-05,6,18
+2104697466,An Event-Based Approach to Spatial Information,1997,0.0,0.0002790487185283924,0.0,4,0
+2105301793,A Geometric Constraint over k-Dimensional Objects and Shapes Subject to Business Rules,2008,0.0007961783439490446,0.00048541892175047,0.0,4,17
+2105447467,A Description Logic with Concrete Domains and a Role-forming Predicate Operator ∗,1999,0.024681528662420384,0.003574158682293319,0.000812357964882323,7,74
+2105747472,Spatial inference with geometric proportional analogies,2006,0.0,0.0002790487185283924,0.0,4,3
+2106822259,Discrete Mereotopology for Spatial Reasoning in Automated Histological Image Analysis,2013,0.005573248407643313,0.0005448603797256716,0.00029468269371712925,5,14
+2107537133,Spatial language for human-robot dialogs,2004,0.003980891719745223,0.00048187043280275985,0.0,11,185
+2107927200,Qualitative Spatial Reasoning for High-Resolution Remote Sensing Image Analysis,2009,0.0031847133757961785,0.00041192675683243273,8.460759252346505e-05,12,32
+2108170676,A Qualitative Account of Discrete Space,2002,0.00875796178343949,0.0008085909485967719,9.618208858667411e-05,5,24
+2108191078,Locating place names from place descriptions,2013,0.0007961783439490446,0.00030627569686909835,3.8945959281977035e-05,14,52
+2109028667,A genetic algorithm-based approach to knowledge-assisted video analysis,2005,0.0,0.0002790487185283924,0.0,4,11
+2109157295,InCOA: Human-machine-human collaboration in sketch-based mission planning,2009,0.0,0.0002790487185283924,0.0,4,2
+2109482530,A formal approach to qualitative reasoning on topological properties of networks,2006,0.0,0.0002790487185283924,0.0,6,2
+2109898491,Learning Probabilistic Structure Graphs for Classification and Detection of Object Structures,2009,0.0,0.0002790487185283924,0.0,4,4
+2110200013,On countable RCC models,2004,0.003980891719745223,0.00046768758690780176,0.00035056790320584045,12,8
+2110432016,Cleantax: A framework for reasoning about taxonomies,2009,0.0,0.0002790487185283924,0.0,4,2
+2111439733,Patch Models and Their Applications to Multivehicle Command and Control,2007,0.0,0.0002790487185283924,0.0,4,2
+2111955929,Spatial Ontology in Factored Statistical Machine Translation,2011,0.0,0.0002790487185283924,0.0,4,0
+2112594095,Topological reasoning between complex regions in databases with frequent updates,2010,0.002388535031847134,0.0004042983766171328,8.368450233240485e-05,6,4
+2114074787,Hierarchical constraint satisfaction in spatial databases,1999,0.0031847133757961785,0.0008231509640824707,0.0,6,14
+2114198896,The Design of an Object-based System for Representing and Classifying Spatial Structures and Relations,2002,0.005573248407643313,0.0006953509750339263,0.0008142050139347576,7,18
+2114216333,Vague relations in spatial databases,2010,0.0007961783439490446,0.0003265061787138327,0.0,14,1
+2114260009,A Space and Time Requirements Logic for Sensor Networks,2006,0.0,0.0002790487185283924,0.0,4,9
+2114893105,A Coordinate-Based Quantitative Directional Relations Model,2009,0.0,0.0002790487185283924,0.0,4,1
+2115121549,Calculi for Qualitative Spatial Reasoning,1996,0.01194267515923567,0.00533613615720174,0.0008254942745764404,9,92
+2115136657,Reasoning About Space: The Modal Way,2003,0.004777070063694268,0.0010497557156421639,2.5582383840434446e-05,5,89
+2115399273,Learning interactions among objects through spatio-temporal reasoning,2012,0.0007961783439490446,0.0003976923689919931,0.0,4,2
+2115494820,Regarding Overlapping as a Basic Concept of Subset Spaces,2008,0.0,0.0002790487185283924,0.0,4,0
+2116238760,Cognitive invariants of geographic event conceptualization: what matters and what refines?,2010,0.0031847133757961785,0.0004339124340293584,6.781908326373804e-05,6,9
+2116266067,Research on Technologies of Spatial Configuration Information Retrieval,2007,0.0,0.0002790487185283924,0.0,4,0
+2116476199,Commonsense notions of proximity and direction in environmental space,2004,0.0015923566878980893,0.00032317814294237975,3.0028505933801945e-06,9,16
+2116504498,Combining multiple representations in a spatial reasoning system,1997,0.005573248407643313,0.0010015493925800377,9.666532413321575e-05,9,11
+2116537119,What is a qualitative calculus? a general framework,2004,0.05493630573248408,0.0039565424056995585,0.001451284759986947,12,113
+2116862240,Applying spatial reasoning to topographical data with a grounded geographical ontology,2007,0.0031847133757961785,0.0004530401339773312,0.000405678689716819,7,7
+2117256052,Ontology-based modeling and integration of morphological characteristics of assembly joints for network-based collaborative assembly design,2009,0.0,0.0002790487185283924,0.0,4,18
+2117264175,"Strong Temporal, Weak Spatial Logic for Rule Based Filters",2009,0.0007961783439490446,0.00035216263806492955,0.0,5,7
+2117480353,Temporalizing spatial calculi: on generalized neighborhood graphs,2005,0.0031847133757961785,0.00038249787145884615,0.00032443147638958617,9,9
+2118450725,Rough set spatial data modeling for data mining,2004,0.0007961783439490446,0.00032479299951903055,0.0,14,33
+2119695665,Ontological modelling of form and function for architectural design,2012,0.004777070063694268,0.0006514387991725564,0.0009928656386958973,11,31
+2119750147,A system for reasoning with nonconvex intervals,1999,0.0,0.0002790487185283924,0.0,4,0
+2120068872,Dual-use open source security software in organizations - Dilemma: Help or hinder?,2013,0.0,0.0002790487185283924,0.0,2,15
+2120085642,Towards the ontological foundations of symbolic biological theories,2007,0.0,0.0002790487185283924,0.0,4,20
+2121268336,Searching for locomotion patterns that suffer from imprecise details,2010,0.0007961783439490446,0.0003010912883727019,7.3533313186166746e-06,9,1
+2121428818,A spatial similarity measure based on games: theory and practice,2002,0.0007961783439490446,0.00040145503331069654,0.00020185275788658436,5,5
+2121430767,A New Adaptive Structural Signature for Symbol Recognition by Using a Galois Lattice as a Classifier,2011,0.0,0.0002790487185283924,0.0,4,14
+2122098161,Comparing relations with a multi-holed region,2009,0.007961783439490446,0.0006642366294820478,7.151758953469309e-05,6,13
+2122601231,On the identification and establishment of topological spatial relations by autonomous systems,2014,0.0007961783439490446,0.00029486787192353916,2.6773248884802666e-05,5,5
+2122791685,Ontology-based context representation and reasoning for object tracking and scene interpretation in video,2011,0.003980891719745223,0.0005799355419324105,4.130921164734208e-05,7,59
+2123478130,Empiricism and Rationalism in Region-based Theories of Space,2001,0.0015923566878980893,0.0003631141013690378,8.1890459307356e-05,5,5
+2124019657,Ontologies and representations of matter,2010,0.0,0.0002790487185283924,0.0,5,4
+2124005958,Triangle-Triangle Intersection Determination and Classification to Support Qualitative Spatial Reasoning,2013,0.0,0.0002790487185283924,0.0,4,6
+2124754956,Fuzzifying Allen's Temporal Interval Relations,2008,0.003980891719745223,0.0005286221326551528,7.860769539373595e-05,14,56
+2124898458,Scalable geo-thematic query answering,2012,0.0031847133757961785,0.000494392346869477,6.166119613603563e-05,13,5
+2125293732,Identification of Relations in Region Connection Calculus: 9-Intersection Reduced to 3 + -Intersection Predicates,2013,0.0,0.0002790487185283924,0.0,4,1
+2128009870,SNAPVis and SPANVis: ontologies for recognizing variable vista spatial environments,2004,0.002388535031847134,0.0004240950712173605,0.0,6,6
+2128204593,A survey of temporal extensions of description logics,2001,0.01035031847133758,0.0014037937942078932,0.0,7,162
+2128208399,The expressive power of first-order topological languages,2013,0.0,0.0002790487185283924,0.0,5,1
+2128303902,Enhanced tracking and recognition of moving objects by reasoning about spatio-temporal continuity,2008,0.002388535031847134,0.0003943092618243845,3.353489626233048e-05,10,19
+2128409561,Belief revision in the propositional closure of a qualitative algebra,2014,0.0007961783439490446,0.0003188907609036273,6.344050549394777e-07,4,2
+2129817342,Toponym Disambiguation in English-Lithuanian SMT System with Spatial Knowledge.,2011,0.0,0.0002790487185283924,0.0,4,0
+2130581475,A topological transition based logic for the qualitative motion of objects,1996,0.0,0.0002790487185283924,0.0,9,2
+2131153176,Constraint-based qualitative simulation,2005,0.0015923566878980893,0.00031739426284349624,3.63373117579223e-06,9,11
+2131680403,A complete axiom system for polygonal mereotopology of the real plane,1998,0.025477707006369428,0.004403061436447567,0.0002172500071961119,5,57
+2132523665,Relation-Aware Volume Exploration Pipeline,2008,0.0007961783439490446,0.0003581444855041262,0.0,6,15
+2133256298,Topological Relations Between Vague Objects in Discrete Space Based on Rough Model,2007,0.0,0.0002790487185283924,0.0,5,1
+2133389607,Geographical Service: a compass for the Web of Data.,2010,0.0015923566878980893,0.0004767881359677269,1.5225721318547465e-05,6,7
+2133767286,How does a box work? A study in the qualitative dynamics of solid objects,2011,0.005573248407643313,0.0005769044131586047,4.711384061275492e-05,11,16
+2133900585,Web-based inference rules for processing conceptual geographical relationships,2001,0.0,0.0002790487185283924,0.0,4,22
+2133922416,Movement Choremes: Bridging Cognitive Understanding and Formal Characterizations of Movement Patterns,2011,0.0007961783439490446,0.00043127555217265694,0.00020382377073447185,6,4
+2134441603,Towards best-effort merge of taxonomically organized data,2010,0.0007961783439490446,0.000315006477990667,0.0,4,3
+2134616886,Elementarily equivalent structures for topological languages over regions in Euclidean space,2013,0.0,0.0002790487185283924,0.0,5,0
+2134831400,Semiotic schemas: a framework for grounding language in action and perception,2005,0.0,0.0002790487185283924,0.0,4,177
+2134859224,Intelligent mapping of hyperspace,2003,0.002388535031847134,0.0004311892104255596,7.676301164767681e-05,14,5
+2135858744,Reasoning with cardinal directions: an efficient algorithm,2008,0.006369426751592357,0.0005921681521895649,5.928178885327273e-05,12,14
+2136137772,Context Evolution in Conceptual Spaces,2009,0.0,0.0002790487185283924,0.0,6,0
+2137070754,Fast Qualitative Reasoning about Actions for Computing Anticipatory Systems,2008,0.0,0.0002790487185283924,0.0,6,5
+2137162848,The Galois lattice as a hierarchical structure for topological relations,2007,0.0031847133757961785,0.000525827511492682,0.000269209281567492,7,10
+2137170986,Automatic event-based indexing of multimedia content using a joint content-event model,2010,0.0,0.0002790487185283924,0.0,4,12
+2137537565,Merging taxonomies under RCC-5 algebraic articulations,2008,0.004777070063694268,0.0008810010258508154,0.00012067496413551683,4,18
+2137660569,A system of types and operators for handling vague spatial objects,2007,0.006369426751592357,0.0007803610070936314,0.00011845073149219622,14,60
+2137917830,Interpreting topological logics over Euclidean spaces,2010,0.009554140127388536,0.0006234564821701982,0.00015904601449365067,5,19
+2138209828,A hybrid geometric-qualitative spatial reasoning system and its application in GIS,2011,0.0,0.0002790487185283924,0.0,12,2
+2138436353,Combining spatial and temporal logics: expressiveness vs. complexity,2005,0.009554140127388536,0.0006132381590753593,0.0020866188540643355,5,50
+2138599909,A Multimodal Logic Approach to Order of Magnitude Qualitative Reasoning with Comparability and Negligibility Relations,2005,0.003980891719745223,0.0006420498254320183,6.520274175766853e-07,8,23
+2139122509,Intelligent Agents Meet Semantic Web in a Smart Meeting Room,2004,0.0,0.0002790487185283924,0.0,4,84
+2139398747,A layered graph representation for complex regions,2010,0.0,0.0002790487185283924,0.0,6,3
+2140371133,On Embedding a Qualitative Representation in a Two-Dimensional Plane,2008,0.002388535031847134,0.0005242455961531672,2.344204491031197e-05,4,3
+2140763711,Spatio-temporal conceptual schema development for wide-area sensor networks,2007,0.0,0.0002790487185283924,0.0,4,1
+2141501442,On minimal models of the Region Connection Calculus,2006,0.0,0.0002790487185283924,0.0,12,3
+2142670185,Topological relations in the world of minimum bounding rectangles: a study with R-trees,1995,0.016719745222929936,0.0021645868388740683,0.00017924309585689555,4,226
+2143818107,Axiomatisation and decidability of multi-dimensional duration calculus,2005,0.0007961783439490446,0.00032442140013805797,6.344050549394777e-07,8,1
+2144057119,A condensed semantics for qualitative spatial reasoning about oriented straight line segments,2011,0.009554140127388536,0.0005428055978189229,0.0002713252252216252,12,22
+2144898452,SOUPA: standard ontology for ubiquitous and pervasive applications,2004,0.005573248407643313,0.0007356151211135897,3.42578729667318e-05,4,512
+2144930856,Complementation in Representable Theories of Region-Based Space,2013,0.0007961783439490446,0.0003123078293422208,4.727828147525155e-06,5,1
+2144931025,Specifying and detecting spatio-temporal events in the internet of things,2013,0.0007961783439490446,0.0003581444855041262,1.8609214944891348e-05,4,13
+2145061640,Topological maps from signals,2007,0.0007961783439490446,0.00031294690437513547,5.040876832373266e-05,5,5
+2145653447,Revision of Spatial Information by Containment,2008,0.0,0.0002790487185283924,0.0,4,0
+2146754375,Qualitative robot localisation using information from cast shadows,2009,0.002388535031847134,0.000406078119876492,3.423155033275064e-05,10,11
+2146780876,Cognitive Evaluation of Spatial Formalisms: Intuitive Granularities of Overlap Relations,2014,0.0,0.0002790487185283924,0.0,6,1
+2147152316,A hybrid reasoning model for whole and part cardinal direction relations,2013,0.0015923566878980893,0.0003272751563776078,3.4762902416491885e-05,12,6
+2147333039,A qualitative treatment of spatial data,2005,0.0007961783439490446,0.0003265061787138327,2.093914303356788e-05,6,1
+2147358059,COMMON-SENSE SPATIAL REASONING FOR INFORMATION CORRELATION IN PERVASIVE COMPUTING,2007,0.0,0.0002790487185283924,0.0,4,16
+2147756878,Spatio-temporal Reasoning for Vague Regions,2004,0.003980891719745223,0.0006013200836049334,6.454733215993354e-05,9,9
+2148552911,On the decidability of connectedness constraints in 2D and 3D Euclidean spaces,2011,0.005573248407643313,0.0005031202845640546,0.0005325527207833736,5,9
+2150274213,Exploiting the semantics of location granules in location-dependent queries,2010,0.0,0.0002790487185283924,0.0,7,6
+2150746273,Reasoning about intervals in two dimensions,2004,0.012738853503184714,0.0011384401274216565,4.118574552444171e-05,9,31
+2152068180,An integrated representation of spatial and temporal relationships between evolving regions,2001,0.002388535031847134,0.0006133845537914225,0.0001508235538832894,9,38
+2153383219,Connectivity in the regular polytope representation,2011,0.0015923566878980893,0.000312021688677476,3.673781999967703e-06,5,7
+2153636767,A Novel Approach for Computing Inverse Relations of Basic Cardinal Direction Relations,2015,0.0,0.0002790487185283924,0.0,12,0
+2153720118,9 + -intersection calculi for spatial reasoning on the topological relations between heterogeneous objects,2010,0.0015923566878980893,0.00028737221246389255,6.182183603073292e-06,12,4
+2154059271,Spatio-temporal modeling of video data for on-line object-oriented query processing,1995,0.0,0.0002790487185283924,0.0,4,38
+2154287377,On the Minimal Labeling Problem of Temporal and Spatial Qualitative Constraints,2013,0.002388535031847134,0.0003053158812832111,1.6133180245086624e-05,12,4
+2154319105,Multimodal spatial data access for architecture design assistance,2011,0.0007961783439490446,0.0003136633267413328,2.765205023052614e-05,11,11
+2154661774,Modeling and Comparing Farm Maps using Graphs and Case-based Reasoning,2003,0.0015923566878980893,0.0005215501637560455,0.0004517279820525436,7,19
+2154896764,Drawing Interactive Euler Diagrams from Region Connection Calculus Specifications,2015,0.0007961783439490446,0.0003976923689919931,0.0001230745806582587,5,1
+2155169337,Dynamical Spatial Systems - A Potential Approach for the Application of Qualitative Spatial Calculi,2008,0.0,0.0002790487185283924,0.0,13,1
+2155854826,A constraint satisfaction framework for executing perceptions and actions in diagrammatic reasoning,2010,0.0007961783439490446,0.0004189924876455572,8.830039359196617e-05,9,6
+2156009792,"Spatial interpretations of preposition ""at""",2012,0.0,0.0002790487185283924,0.0,6,6
+2156140220,The mathematical morpho-logical view on reasoning about space,2007,0.004777070063694268,0.0005797602494428338,4.0851969173714046e-05,5,15
+2157017008,Generating approximate region boundaries from heterogeneous spatial information: An evolutionary approach,2011,0.0031847133757961785,0.0003282059799205577,7.952591232534871e-05,12,21
+2157532312,A context ontology for service provisioning and consumption,2014,0.0,0.0002790487185283924,0.0,4,5
+2157916926,A qualitative trajectory calculus and the composition of its relations,2005,0.02229299363057325,0.0014500563433739292,0.0009312842667767016,9,63
+2157927657,Topological relations from metric refinements,2009,0.007961783439490446,0.0006122832899858686,0.0002037939086639191,6,23
+2158753355,Georeferencing locality descriptions and computing associated uncertainty using a probabilistic approach,2008,0.002388535031847134,0.0003481570249489801,1.3964463649798743e-06,14,56
+2158848377,Inference of Order in Genetic Systems,1993,0.0007961783439490446,0.0005428837742353429,0.0,12,11
+2158929669,A spatial odyssey of the interval algebra: 1. directed intervals,2001,0.019904458598726117,0.002624117529202221,0.00023592729209726525,12,38
+2159271285,Investigating intuitive granularities of overlap relations,2013,0.0007961783439490446,0.0003185966020162593,3.844494632933235e-05,6,1
+2159296906,A Generic Toolkit for n-ary Qualitative Temporal and Spatial Calculi,2006,0.01194267515923567,0.0009197289505884102,9.23802001085225e-05,12,22
+2161705339,Reasoning about cardinal directions between extended objects,2010,0.015127388535031847,0.0007610378847688595,0.00046564705000950177,12,38
+2163359382,Implementing a qualitative calculus to analyse moving point objects,2011,0.007961783439490446,0.0006173248638970769,0.0009715272101475696,9,30
+2163769928,Design of Multimedia Conference Control System based on SIP,2007,0.0,0.0002790487185283924,0.0,4,3
+2164328302,An AGM-style belief revision mechanism for probabilistic spatio-temporal logics,2010,0.0015923566878980893,0.00035376371203980884,2.313816214265373e-06,13,14
+2164547007,Metric details of topological line-line relations,2007,0.01035031847133758,0.0009168796728649171,0.0005742348414300812,6,46
+2164745460,Minimality and convexity properties in spatial CSPs,2005,0.004777070063694268,0.0004921535030656616,2.3122639763300174e-05,13,6
+2165609373,Probabilistic situation recognition for vehicular traffic scenarios,2009,0.0,0.0002790487185283924,0.0,8,50
+2165657252,From the Egg-Yolk to the Scrambled-Egg Theory,2002,0.004777070063694268,0.0005600668407090286,0.0,14,17
+2166007631,Spatial Description Logic and Its Application in Geospatial Semantic Web,2008,0.0015923566878980893,0.0003135632350268944,3.163156081874451e-05,7,4
+2166266075,HyperMap: a system to map the Web,2005,0.0,0.0002790487185283924,0.0,4,1
+2166937888,Approximate Qualitative Temporal Reasoning,2002,0.007961783439490446,0.0011317432511720987,0.0006061794108889167,14,30
+2167196189,Investigations into the Cognitive Conceptualization and Similarity Assessment of Spatial Scenes,2012,0.0015923566878980893,0.0003516426878191162,1.8538725494342517e-05,6,2
+2167200416,Ultimately periodic qualitative constraint networks for spatial and temporal reasoning,2005,0.0,0.0002790487185283924,0.0,13,3
+2167352594,Plausible reasoning from spatial observations,2001,0.0,0.0002790487185283924,0.0,4,5
+2167661984,A PDL APPROACH FOR QUALITATIVE VELOCITY,2011,0.002388535031847134,0.00035827585802841776,1.5287109109272684e-05,8,9
+2168057110,"Topology, connectedness, and modal logic",2008,0.005573248407643313,0.0005076415383298874,0.00028788238925304006,5,13
+2168387862,Reasoning about topological and cardinal direction relations between 2-dimensional spatial objects,2014,0.007165605095541401,0.0005427228447924509,0.0005608334110475912,12,17
+2168488731,Study of topological relations between vague regions in discrete space based on rough sets,2005,0.0,0.0002790487185283924,0.0,5,0
+2168905287,A Framework for Merging Qualitative Constraints Networks,2008,0.009554140127388536,0.0012977477080839542,0.0,4,24
+2169236565,Event-based concepts for user-driven visualization,2011,0.0,0.0002790487185283924,0.0,4,12
+2169507693,Using Interval Logic for Order Assembly,1994,0.002388535031847134,0.0009319942292941811,0.0005073047942969531,12,8
+2169531810,Knowledge-Assisted Video Analysis for Content-Adaptive Coding and Transmission,2006,0.0,0.0002790487185283924,0.0,4,1
+2169913858,Qualitative reasoning about consistency in geographic information,2006,0.007165605095541401,0.0008757901656187199,0.0003080478694230295,6,36
+2170007671,"Unifying quantitative, semi-quantitative and qualitative spatial relation knowledge representations using mathematical morphology",2002,0.0,0.0002790487185283924,0.0,5,8
+2170393136,Decomposition and tractability in qualitative spatial and temporal reasoning,2013,0.007961783439490446,0.0005055385248776916,0.0002156096114375307,13,19
+2170841055,Ontological exploration of geospatial objects in context,2014,0.0007961783439490446,0.0003087096311442926,5.438512857879974e-05,9,4
+2171210265,A Content-Based Approach to Searching and Indexing Spatial Configurations,2002,0.0015923566878980893,0.00044555579913389305,0.0,6,2
+2171788266,Efficient Algorithms for Fuzzy Qualitative Temporal Reasoning,2009,0.0,0.0002790487185283924,0.0,14,3
+2172260040,Towards spatial reasoning in fuzzy description logics,2009,0.0015923566878980893,0.0003135632350268944,4.740579185633363e-05,7,20
+2172786993,Granular description of qualitative change,2013,0.002388535031847134,0.00032127039831063563,3.6216472699838595e-05,6,4
+2173699006,Exploiting Content-Based Pub/Sub Systems for Event Detection in Emergency Management,2013,0.0,0.0002790487185283924,0.0,4,3
+2177055139,Fast consistency checking of very large real-world RCC-8 constraint networks using graph partitioning,2014,0.003980891719745223,0.0003976433018601793,4.408132645501641e-05,13,7
+2181344970,Distributed spatial reasoning for wireless sensor networks,2011,0.0015923566878980893,0.000385828003945633,2.7425934720324043e-05,4,5
+2181357089,Implicit constraints for qualitative spatial and temporal reasoning,2012,0.0007961783439490446,0.0003099149026674894,4.700861521145018e-05,12,4
+2181650317,"Black hole search in computer networks: State-of-the-art, challenges and future directions",2016,0.0,0.0002790487185283924,0.0,3,7
+2186337089,Learning micro-management skills in RTS games by imitating experts,2014,0.0007961783439490446,0.00031465665316586847,0.0,9,1
+2186358915,Show Me How You Act on a Diagram and I'll Tell You What You Think (or: Spatial Structures as Organizing Schemes in Collaborative Human-Computer Reasoning),2005,0.0015923566878980893,0.0003779184272480596,0.0,4,5
+2186952700,Refinements of the RCC25 Composition Table,2014,0.0,0.0002790487185283924,0.0,5,1
+2188821554,An Algorithm for Inconsistency Management in Spatial Knowledge Integration,2011,0.0,0.0002790487185283924,0.0,9,0
+2194381366,Effects of representation on solving complex spatial-temporal problems,2012,0.0,0.0002790487185283924,0.0,4,0
+2194834917,ASPMT(QS): Non-Monotonic Spatial Reasoning with Answer Set Programming Modulo Theories,2015,0.003980891719745223,0.0005136971864492477,0.0001195532762803436,11,10
+2201305657,Compactness and its implications for qualitative spatial and temporal reasoning,2012,0.014331210191082803,0.0007764171724568211,0.00031796054109378105,13,20
+2202473244,Computing narratives of cognitive user experience for building design analysis KR for industry scale computer-aided architecture design,2014,0.0031847133757961785,0.00045431268536441237,0.0004030724676188255,11,13
+2202869108,Tackling Large Qualitative Spatial Networks of Scale-Free-Like Structure,2014,0.007961783439490446,0.00048806003784084045,0.00022323074046638172,13,11
+2203973094,A reasoner for the RCC-5 and RCC-8 calculi extended with constants,2014,0.0015923566878980893,0.00036345304276489966,0.00012286638503110193,13,2
+2206656502,Interleaved inductive-abductive reasoning for learning complex event models,2011,0.0031847133757961785,0.0004887635227724268,8.260710467805654e-05,11,19
+2211159606,Lightweight Spatial Conjunctive Query Answering Using Keywords,2013,0.0007961783439490446,0.0003581444855041262,3.5257816172374495e-05,13,10
+2214443292,Spatial refinement as collection order relations,2015,0.0,0.0002790487185283924,0.0,6,0
+2224056960,Extension properties of boolean contact algebras,2012,0.0,0.0002790487185283924,0.0,5,2
+2232121986,Ordering Spatio-Temporal Sequences to Meet Transition Constraints: Complexity and Framework,2015,0.0015923566878980893,0.00034296338334996413,0.00012137395400521241,5,3
+2233195685,"A Qualitative Approach to the Identification, Visualisation and Interpretation of Repetitive Motion Patterns in Groups of Moving Point Objects",2015,0.0,0.0002790487185283924,0.0,9,1
+2240075443,"Here, there, but not everywhere: an extended framework for qualitative constraint satisfaction",2012,0.002388535031847134,0.00032914057003747735,5.808078977185989e-06,12,3
+2240340847,A Visual Analytics System for Supporting Rock Art Knowledge Discovery,2014,0.0,0.0002790487185283924,0.0,7,1
+2241346499,A Practical Approach for Maximizing Satisfiability in Qualitative Spatial and Temporal Constraint Networks,2015,0.0015923566878980893,0.000328899991783731,1.7459229908794703e-05,13,3
+2245117103,Commonsense spatial reasoning for context–aware pervasive systems,2005,0.0031847133757961785,0.0005626115378667732,4.9377860109456014e-05,4,14
+2247429395,A Computational Logic Approach to Human Spatial Reasoning,2015,0.0,0.0002790487185283924,0.0,9,9
+2250271938,Image Annotation with ISO-Space: Distinguishing Content from Structure,2014,0.0,0.0002790487185283924,0.0,12,3
+2250379249,Describing Images using Inferred Visual Dependency Representations,2015,0.0007961783439490446,0.0003976923689919931,0.0,4,24
+2250392808,Annotating Spatial Containment Relations Between Events,2012,0.0015923566878980893,0.0003976923689919931,0.0,9,6
+2250973044,Recognizing Spatial Containment Relations between Event Mentions,2013,0.0,0.0002790487185283924,0.0,9,10
+2251560724,UCCA: A Semantics-based Grammatical Annotation Scheme,2013,0.0,0.0002790487185283924,0.0,9,3
+2251876105,SemEval-2015 Task 8: SpaceEval,2015,0.0,0.0002790487185283924,0.0,9,13
+2251894517,Generating Simulations of Motion Events from Verbal Descriptions,2014,0.002388535031847134,0.00044316159574169905,0.0,9,4
+2251980993,Ontology-driven Development of Personalized Location Based Services,2011,0.0,0.0002790487185283924,0.0,7,0
+2253173112,Qualitative spatial reasoning methodology to determine the particular domain of a set of geographic objects,2016,0.0,0.0002790487185283924,0.0,12,1
+2254428435,Drawing Euler Diagrams from Region Connection Calculus Specifications with Local Search,2014,0.0007961783439490446,0.00033538819360659126,2.3261518681114185e-06,5,1
+2256069534,Analysis of Basic Relations Within Insights of Spatio-Temporal Analysis,2015,0.0,0.0002790487185283924,0.0,12,1
+2256948220,A Coq-Based Axiomatization of Tarski's Mereogeometry,2015,0.0,0.0002790487185283924,0.0,5,0
+2258611702,From Metric to Topology: Determining Relations in Discrete Space,2015,0.003980891719745223,0.0003827263009714367,6.829848737695058e-05,6,6
+2260314130,Generalized Qualitative Spatio-Temporal Reasoning: Complexity and Tableau Method,2015,0.0,0.0002790487185283924,0.0,13,0
+2262498378,Indexing large geographic datasets with compact qualitative representation,2016,0.0015923566878980893,0.00033264095252767624,7.596130253820717e-05,13,3
+2265613008,Strong Spatial Cognition,2015,0.0,0.0002790487185283924,0.0,12,9
+2266819749,Deductive and inductive reasoning on spatio-temporal data,2004,0.0007961783439490446,0.0002885402105654804,1.6917468131719406e-06,4,4
+2267345757,Swiss Canton Regions: A Model for Complex Objects in Geographic Partitions,2015,0.0015923566878980893,0.00032914270427969043,0.0002168311129495019,6,2
+2274970079,Image schemas in computational conceptual blending,2016,0.0015923566878980893,0.0003500356883983265,8.475093815261806e-05,11,13
+2279454614,Shape Similarity Based on the Qualitative Spatial Reasoning Calculus eOPRAm,2015,0.002388535031847134,0.0003746227702907374,0.000159460273811785,9,6
+2286612938,Analogical Representation of RCC-8 for Neighborhood-Based Qualitative Spatial Reasoning,2015,0.0015923566878980893,0.00033931216003371337,8.595829118385431e-05,6,3
+2286857154,Doctoral Consortium Extended Abstract: Nonmonotonic Qualitative Spatial Reasoning,2015,0.0,0.0002790487185283924,0.0,9,0
+2288664201,Linking spatial and dynamic models for traffic maneuvers,2015,0.0007961783439490446,0.0003265061787138327,3.1720252746973887e-07,8,3
+2288879448,Introducing Ontological Realism for Semi-Supervised Detection and Annotation of Operationally Significant Activity in Surveillance Videos.,2010,0.0,0.0002790487185283924,0.0,9,3
+2289263720,Probabilistic self-localisation on a qualitative map based on occlusions,2016,0.0007961783439490446,0.00033837054376019274,8.213078330697023e-05,10,3
+2293301496,Relation-aware spreadsheets for multimodal volume segmentation and visualization,2010,0.0,0.0002790487185283924,0.0,6,1
+2294320413,Rough Set Based Similarity Measures for Data Analytics in Spatial Epidemiology,2016,0.0,0.0002790487185283924,0.0,4,8
+2294412992,A Representation Theorem for Spatial Relations,2015,0.0,0.0002790487185283924,0.0,6,0
+2294762760,An integrated qualitative and boundary-based formal model for a semantic representation of trajectories,2015,0.0,0.0002790487185283924,0.0,4,0
+2295309412,Construction of a Planar PLCA Expression: A Qualitative Treatment of Spatial Data,2015,0.0,0.0002790487185283924,0.0,4,1
+2295731100,Efficiently characterizing non-redundant constraints in large real world qualitative spatial networks,2015,0.004777070063694268,0.000428672354018728,0.0002458584299979491,13,7
+2312571665,Rational Region-Based Affine Logic of the Real Plane,2016,0.0,0.0002790487185283924,0.0,5,0
+2312855616,Encoding Relative Orientation and Mereotopology Relations with Geometric Constraints in CLP(QS),2015,0.0031847133757961785,0.00039987894674167144,4.166201161658822e-06,11,5
+2314422014,Names are not good enough: Reasoning over taxonomic change in the Andropogon complex,2016,0.0007961783439490446,0.00033837054376019274,3.2777594505206346e-06,4,24
+2318572191,Distributive mereotopology: extended distributive contact lattices,2016,0.0007961783439490446,0.00031294690437513547,7.64307042379466e-06,5,2
+2326914759,Spatial Rules for Capturing Qualitatively Equivalent Configurations in Sketch Maps,2015,0.0,0.0002790487185283924,0.0,12,1
+2328235525,Knowledge representation in probabilistic spatio-temporal knowledge bases,2016,0.0007961783439490446,0.00028983450493417427,6.143698515446637e-05,13,6
+2334205920,Parthood and Convexity as the Basic Notions of a Theory of Space,2015,0.0,0.0002790487185283924,0.0,5,0
+2336500050,Spatial Computing,2020,0.0015923566878980893,0.000392935566424977,0.00011838602520461075,12,20
+2339282530,A hybrid (visual/natural) controlled language,2017,0.0,0.0002790487185283924,0.0,4,2
+2341362645,Effects of Training Data Variation and Temporal Representation in a QSR-Based Action Prediction System.,2014,0.0,0.0002790487185283924,0.0,9,1
+2341991568,Using Contextual Information for Recognising Human Behaviour,2016,0.0,0.0002790487185283924,0.0,4,14
+2343201345,Querying incomplete information in RDF with SPARQL,2016,0.0007961783439490446,0.00029153752384035035,8.004816509650675e-06,13,8
+2345826667,3D Spatial Reasoning Using the Clock Model,2015,0.0,0.0002790487185283924,0.0,7,2
+2346002144,Qualitative Physics in Angry Birds,2016,0.0,0.0002790487185283924,0.0,4,10
+2346204611,A Completeness of Metrics for Topological Relations in 3D Qualitative Spatial Reasoning,2015,0.0,0.0002790487185283924,0.0,4,0
+2347123504,Semantics-Enabled Framework for Spatial Image Information Mining of Linked Earth Observation Data,2017,0.0015923566878980893,0.000385828003945633,3.3834936263438812e-06,4,12
+2349759657,Efficiently Reasoning about Qualitative Constraints through Variable Elimination,2016,0.0015923566878980893,0.00032813042824332946,6.525501727894756e-05,13,4
+2350707518,A two-level topological model for 3D features in CityGML,2016,0.0,0.0002790487185283924,0.0,6,5
+2395363932,A Semantic Mediator for Handling Heterogeneity of Spatio-Temporal Environment Data,2015,0.0,0.0002790487185283924,0.0,7,3
+2395908292,Combining Qualitative Spatial Reasoning and Ontological Reasoning for Supporting Robot Tasks.,2012,0.0,0.0002790487185283924,0.0,7,0
+2397322914,"The geometry of a scene: On deep semantics for visual perception driven cognitive film, studies",2016,0.002388535031847134,0.0004343876093064087,0.00023823067853950695,11,9
+2397655089,Reuse with Domain and Process Ontologies.,2014,0.0,0.0002790487185283924,0.0,4,2
+2397871533,Declarative spatial reasoning with boolean combinations of axis-aligned rectangular polytopes,2014,0.004777070063694268,0.0005984453599973066,0.0003048759606493061,11,9
+2398072665,On Redundancy in Linked Geospatial Data.,2015,0.0007961783439490446,0.00030182762467615933,2.043992667485955e-05,13,1
+2398165637,Spatial Semantics for Concepts.,2013,0.0007961783439490446,0.0002953394470766134,5.583008485411611e-05,5,1
+2398332212,Determining Minimal Transitions Between VRCC-3D+ Relations.,2012,0.0,0.0002790487185283924,0.0,4,1
+2398810497,Combining DL-Lite with Spatial Calculi for Feasible Geo-thematic Query Answering.,2012,0.0031847133757961785,0.00044423695132773375,4.3217194153342285e-05,13,7
+2398898935,Supporting Mobile Robot's Tasks through Qualitative Spatial Reasoning.,2012,0.0015923566878980893,0.0003976923689919931,0.00010407781509119879,7,7
+2398919057,GeospatialRules: A Datalog+ RuleML Rulebase for Geospatial Reasoning.,2014,0.0,0.0002790487185283924,0.0,6,2
+2399166258,PelletSpatial: a hybrid RCC-8 and RDF/OWL reasoning and query engine,2009,0.02786624203821656,0.0019237212705337267,0.0015296211144239387,7,73
+2399342647,'Being a manifold' as the topological primitive of mereotopology,2014,0.0,0.0002790487185283924,0.0,5,0
+2399799767,A Linguistically Grounded Annotation Language for Spatial Information,2012,0.0015923566878980893,0.0003976923689919931,0.00013783740599407866,9,14
+2400972501,Confirming the QSR Promise.,2009,0.0015923566878980893,0.0005181525627527934,0.00013072024484971426,11,2
+2401705542,Fuzzy Three-Dimensional Voronoi Diagram and its Application to Geographical Data Analysis,2012,0.0,0.0002790487185283924,0.0,14,0
+2401991345,ProvenanceMatrix: A Visualization Tool for Multi-taxonomy Alignments.,2015,0.0007961783439490446,0.000315006477990667,0.0,4,6
+2402109691,Nearness rules and scaled proximity,2012,0.0015923566878980893,0.0003379138139754559,1.386524842316159e-05,5,2
+2402906858,A path-consistency based algorithm for anomaly detection of spatial constraints in GeoXACML policies,2014,0.0,0.0002790487185283924,0.0,13,0
+2402917073,Ambiguous Landmark Problems in Cognitive Robotics: A Benchmark for Qualitative Position Calculi.,2009,0.0,0.0002790487185283924,0.0,12,1
+2403083208,Extracting Spatial Relations Among Objects for Failure Detection,2013,0.0015923566878980893,0.0004342579023262585,5.7096454944552994e-05,4,11
+2403247850,Qualitative spatial and temporal reasoning with AND/OR linear programming,2014,0.002388535031847134,0.00031492298803150126,6.478253016733788e-05,12,6
+2403655475,Scalable Representation Structures for Visuo-Spatial Reasoning - Dynamic Explorations into Knowledge Types.,2009,0.0,0.0002790487185283924,0.0,4,0
+2404172006,GeoSPARQL Query Tool - A Geospatial Semantic Web Visual Query Tool,2014,0.0,0.0002790487185283924,0.0,4,1
+2404351495,A concise Horn theory for RCC8,2014,0.0,0.0002790487185283924,0.0,13,0
+2404508341,SOWL QL: Querying Spatio-Temporal Ontologies in OWL,2016,0.0,0.0002790487185283924,0.0,7,5
+2405803248,"Holes, Knots and Shapes: A Spatial Ontology of a Puzzle.",2007,0.0007961783439490446,0.0002995883786245672,1.2053696043850078e-05,10,3
+2407458228,A General Characterization of Representing and Determining Fuzzy Spatial Relations,2015,0.0,0.0002790487185283924,0.0,4,2
+2407451098,Developing an Ontology of the Cyber Security Domain.,2012,0.0,0.0002790487185283924,0.0,4,62
+2408063986,Logics of Space with Connectedness Predicates: Complete Axiomatizations.,2010,0.0015923566878980893,0.00030124644790429164,4.2293670329298515e-07,5,8
+2408113577,A Simple Decomposition Scheme for Large Real World Qualitative Constraint Networks.,2015,0.002388535031847134,0.0003406602411509696,3.679766526151686e-05,13,3
+2408574912,Scene Understanding of Urban Road Intersections with Description Logic,2008,0.0,0.0002790487185283924,0.0,7,15
+2412677651,A Survey of Qualitative Spatial and Temporal Calculi: Algebraic and Computational Properties,2017,0.002388535031847134,0.00034426803515750625,0.0004734732006074698,12,16
+2420717085,Combining diagrammatic reasoning with qualitative spatial and temporal reasoning for motion event detection,2015,0.0007961783439490446,0.0003265061787138327,1.2159430219673323e-06,4,2
+2462848072,Stating the Obvious: Extracting Visual Common Sense Knowledge,2016,0.0,0.0002790487185283924,0.0,4,17
+2466880618,Event attributed Spatial Entity Knowledge (EASE) based Spatio-Temporal reasoning to infer geographic processes,2016,0.0,0.0002790487185283924,0.0,6,2
+2467082094,Converting spatiotemporal data among multiple granularity systems,2016,0.0,0.0002790487185283924,0.0,4,2
+2467470836,Data Reduction and Regression Using Principal Component Analysis in Qualitative Spatial Reasoning and Health Informatics,2016,0.0,0.0002790487185283924,0.0,4,2
+2472157084,Algebraic foundations for qualitative calculi and networks,2016,0.0,0.0002790487185283924,0.0,12,0
+2478160489,Representation and Reasoning of Topological Relations Between Enclave and Exclave Regions,2016,0.0,0.0002790487185283924,0.0,7,0
+2478504098,Integrating Qualitative Reasoning and Human-Robot Interaction in Domestic Service Robotics,2016,0.0,0.0002790487185283924,0.0,9,3
+2478394093,On Event Detection from Spatial Time Series for Urban Traffic Applications,2016,0.0,0.0002790487185283924,0.0,4,5
+2478997008,A Numerical Optimisation Based Characterisation of Spatial Reasoning,2016,0.002388535031847134,0.00037586692780486406,3.769698986116941e-05,11,3
+2483092049,A Formal Model for Context-Aware Semantic Augmented Reality Systems,2016,0.0,0.0002790487185283924,0.0,9,0
+2489727692,Qualitative Spatial Configuration Search,2016,0.0,0.0002790487185283924,0.0,12,1
+2490949124,"Robust Natural Language Processing - Combining Reasoning, Cognitive Semantics and Construction Grammar for Spatial Language",2016,0.0015923566878980893,0.00031673552514624204,3.1040533045253015e-06,11,8
+2498906089,The exploitation of spatial information in narrative discourse,2011,0.0007961783439490446,0.0003265061787138327,0.0,9,3
+2501863852,Non-expert Classification of Microcalcification Clusters Using Mereotopological Barcodes,2016,0.0,0.0002790487185283924,0.0,5,0
+2502683822,A formal framework to represent spatial knowledge,2017,0.0007961783439490446,0.00030541397418697034,8.460147366367015e-05,12,3
+2510497691,Probabilistic Spatial Reasoning in Constraint Logic Programming,2016,0.0007961783439490446,0.0003087096311442926,3.4785074728803e-05,11,2
+2515502178,Qualitative spatial logics for buffered geometries,2016,0.0,0.0002790487185283924,0.0,14,1
+2516860299,Review of Forty Years of Technological Changes in Geomatics toward the Big Data Paradigm,2016,0.0,0.0002790487185283924,0.0,4,9
+2517643317,A SAT approach for maximizing satisfiability in qualitative spatial and temporal constraint networks,2016,0.0007961783439490446,0.0003087096311442926,6.141008891154806e-05,13,2
+2520054472,AL17: triggering interactions in an ecosystem of wearables,2016,0.0,0.0002790487185283924,0.0,4,0
+2522662157,Ontop of Geospatial Databases,2016,0.0007961783439490446,0.00033837054376019274,0.0,4,17
+2527768801,Multimodal Semantic Simulations of Linguistically Underspecified Motion Events,2016,0.0,0.0002790487185283924,0.0,9,3
+2529836453,VoxML: A Visualization Modeling Language,2016,0.002388535031847134,0.0004352520190441256,1.903215164818433e-06,4,7
+2539881948,Exploiting Contextual Knowledge for Hybrid Classification of Visual Objects,2016,0.0,0.0002790487185283924,0.0,4,4
+2542773662,Customizable active situation awareness framework based on meta-process in ontology,2013,0.0,0.0002790487185283924,0.0,4,0
+2549486221,NCL-Tester: Graphic Application for NCL Documents Temporal Test Creation,2016,0.0007961783439490446,0.00033837054376019274,0.0,4,1
+2551510360,Discovering Spatial and Temporal Links among RDF Data,2016,0.0007961783439490446,0.00033837054376019274,7.002547891539694e-05,4,10
+2560204688,Qualitative spatio-temporal stream reasoning with unobservable intertemporal spatial relations using landmarks,2016,0.0007961783439490446,0.00029153752384035035,2.379640921763178e-06,13,5
+2560577259,Towards Modelling and Analysis of Spatial and Temporal Requirements,2016,0.0,0.0002790487185283924,0.0,4,2
+2561330193,Vague distance predicates,2017,0.0,0.0002790487185283924,0.0,9,0
+2564609501,Qualitative spatial and temporal reasoning over diagrams for activity recognition,2016,0.0,0.0002790487185283924,0.0,4,1
+2567006482,Comprehensive Representation and Efficient Extraction of Spatial Information for Human Activity Recognition from Video Data,2017,0.0007961783439490446,0.0003185966020162593,0.0,4,2
+2567855062,Modeling Topological Relationships between Fuzzy Spatio-Temporal Objects,2016,0.0007961783439490446,0.00028983450493417427,7.930063186743472e-07,7,2
+2569375046,On the Computational Complexity of Spatio-Temporal Logics,2003,0.004777070063694268,0.000558809572403423,4.214457739529427e-05,13,27
+2569667514,A canonical model of the region connection calculus,1997,0.004777070063694268,0.0020804814580708,0.00016889987669959833,5,10
+2570103566,Reasoning About Space: The Modal Way,2003,0.0007961783439490446,0.0003775380861263927,4.43026196699402e-05,5,6
+2571479333,Temporal Pattern Mining in Dynamic Environments,2007,0.0,0.0002790487185283924,0.0,9,4
+2571900926,Reasoning About General TBoxes with Spatial and Temporal Constraints: Implementation and Optimizations.,2016,0.0,0.0002790487185283924,0.0,13,0
+2571931648,Towards a semantic framework for exploiting heterogeneous environmental data,2017,0.0,0.0002790487185283924,0.0,7,2
+2572204051,Efficient path consistency algorithm for large qualitative constraint networks,2016,0.0007961783439490446,0.0002938791748363425,5.443070201552197e-05,13,6
+2572579345,Geographic Event Conceptualization: Where Spatial and Cognitive Sciences Meet,2011,0.0,0.0002790487185283924,0.0,6,3
+2572947519,Connecting qualitative spatial and temporal representations by propositional closure,2016,0.0015923566878980893,0.00029624052573086875,3.357991550127465e-05,12,2
+2573434432,VoxSim: A Visual Platform for Modeling Motion Language.,2016,0.0007961783439490446,0.0003185966020162593,6.344050549394777e-07,4,7
+2573646622,A review of spatial reasoning and interaction for real-world robotics,2017,0.0,0.0002790487185283924,0.0,12,11
+2574012797,Towards an Ontology of Space for GFO.,2016,0.0007961783439490446,0.00033837054376019274,3.1720252746973888e-06,5,1
+2574099392,A tool for generating interactive Euler diagrams,2016,0.0,0.0002790487185283924,0.0,5,0
+2575920578,Encoding large RCC8 scenarios using rectangular pseudo-solutions,2016,0.0015923566878980893,0.00032024443049492044,6.49663725810594e-05,13,2
+2577242451,A Spatial Logic for Modeling and Verification of Collision-Free Control of Vehicles,2016,0.0007961783439490446,0.0003265061787138327,0.0,8,8
+2578211820,Semantic question-answering with video and eye-tracking data: AI foundations for human visual perception driven cognitive film studies,2016,0.0007961783439490446,0.0002930067950535219,2.643354395581157e-07,11,6
+2581528920,Scene Interpretation for Self-Aware Cognitive Robots.,2014,0.0007961783439490446,0.0003581444855041262,5.7096454944552994e-05,4,14
+2587289819,A 27-Intersection Model for Representing Detailed Topological Relations between Spatial Objects in Two-Dimensional Space,2017,0.0,0.0002790487185283924,0.0,6,3
+2600575399,Spatial Alloy: An Alloy Extension for Modeling Spatial Properties,2016,0.0,0.0002790487185283924,0.0,12,0
+2604861847,Semantic typing of linked geoprocessing workflows,2018,0.0,0.0002790487185283924,0.0,4,10
+2604924028,Checking the Consistency of Combined Qualitative Constraint Networks.,2017,0.0,0.0002790487185283924,0.0,12,1
+2605272756,Commonsense reasoning about containers using radically incomplete information,2017,0.0007961783439490446,0.00030291005382954687,3.3607516137120455e-05,11,4
+2607282940,Topological Relations Between Bipolar Fuzzy Sets Based on Mathematical Morphology,2017,0.0,0.0002790487185283924,0.0,14,2
+2611229588,A Model for Multigranular Data and Its Integrity,2017,0.0,0.0002790487185283924,0.0,6,1
+2615453028,A Foundation for Spatial Data Warehouses on the Semantic Web,2017,0.0,0.0002790487185283924,0.0,7,3
+2615528263,A qualitative inference method for prediction of geographic process using spatial and temporal relations,2017,0.0,0.0002790487185283924,0.0,6,2
+2615784851,A Software to Capture Mental Models,2017,0.0,0.0002790487185283924,0.0,6,2
+2617996533,Proof Theory of a Multi-Lane Spatial Logic,2015,0.0031847133757961785,0.0005851363296108731,5.774387343651687e-05,8,12
+2621132279,Consistency Check in a Multiple Viewpoint System for Reasoning About Occlusion,2017,0.0007961783439490446,0.00030541397418697034,1.2688101098789555e-06,10,1
+2621341574,Towards a Spatio-Temporal Agent-Based Recommender System,2017,0.0,0.0002790487185283924,0.0,14,1
+2674634774,Retrieving and reusing qualitative cases: An application in humanoid-robot soccer,2017,0.0,0.0002790487185283924,0.0,9,2
+2682019352,Model-based Correction of Segmentation Errors in Digitised Histological Images,2017,0.0007961783439490446,0.0003100116718843231,0.0,5,1
+2737067590,Improving the reliability of service robots in the presence of external faults by learning action execution models,2017,0.0,0.0002790487185283924,0.0,4,1
+2741655984,Using 3D Fuzzy topological relationships for Checking of Spatial Relations between Dynamic Air Pollution Cloud and City Population Density.,2006,0.0,0.0002790487185283924,0.0,14,0
+2746686386,Finitariness of Elementary Unification in Boolean Region Connection Calculus,2017,0.0,0.0002790487185283924,0.0,5,0
+2747308663,On redundant topological constraints (extended Abstract),2014,0.0,0.0002790487185283924,0.0,12,0
+2751296731,Automated mapping for geospatial ontologies integration,2017,0.0,0.0002790487185283924,0.0,4,0
+2751342366,Relation Variables in Qualitative Spatial Reasoning,2004,0.003980891719745223,0.0006647830912634581,0.00025818481829002245,12,9
+2751414096,Agreeing to disagree: Reconciling conflicting taxonomic views using a logic-based approach,2017,0.0,0.0002790487185283924,0.0,4,3
+2751441808,Modelling Topological Features of Swarm Behaviour in Space and Time With Persistence Landscapes,2017,0.0007961783439490446,0.00030541397418697034,1.2091458249501237e-05,6,6
+2752762230,Towards a Model and a Textual Representation for Location-based Games,2017,0.0015923566878980893,0.0005103713191483908,0.0,4,2
+2755642877,Correspondence Between PLCA and Maptree: Representations of a Space Configuration,2017,0.0,0.0002790487185283924,0.0,6,0
+2755718078,Commonsense Scene Semantics for Cognitive Robotics: Towards Grounding Embodied Visuo-Locomotive Interactions,2017,0.0,0.0002790487185283924,0.0,11,2
+2756513438,A novel algorithm for fully automated mapping of geospatial ontologies,2018,0.0,0.0002790487185283924,0.0,4,3
+2756978888,Logics for extended distributive contact lattices,2018,0.0,0.0002790487185283924,0.0,5,0
+2757185739,Detecting Mobility Patterns using Spatial Query Answering over Streams.,2017,0.0,0.0002790487185283924,0.0,13,1
+2760863500,A Bayesian based Methodology for Indirect Object Search,2018,0.0,0.0002790487185283924,0.0,4,1
+2762957147,Evaluating LeGaL: An NCL extension for representing Location-Based Games,2017,0.0007961783439490446,0.0003581444855041262,0.0,4,1
+2766081987,Between Contact and Support: Introducing a Logic for Image Schemas and Directed Movement,2017,0.0015923566878980893,0.0003325709664454471,1.741746728080897e-05,11,5
+2773279743,Mereotopological Correction of Segmentation Errors in Histological Imaging,2017,0.0015923566878980893,0.0003277773606830855,7.062064120454761e-05,5,6
+2773467882,Visual Explanation by High-Level Abduction: On Answer-Set Programming Driven Reasoning about Moving Objects,2017,0.0015923566878980893,0.00034825751463215946,0.00010626256326576067,11,5
+2773707493,Towards adaptive semantic subscriptions for stream reasoning in the robot operating system,2017,0.0,0.0002790487185283924,0.0,4,0
+2776628200,Orchestrating a Network of Mereo(topo)logical Theories,2017,0.0007961783439490446,0.00030291005382954687,1.3015877043841618e-05,5,1
+2779590994,A Spatio-temporal Scenario Model for Emergency Decision,2018,0.0,0.0002790487185283924,0.0,12,1
+2780906569,Constants and finite unary relations in qualitative constraint reasoning,2018,0.0,0.0002790487185283924,0.0,13,0
+2782001524,Topology and measure in logics for region-based theories of space,2018,0.0,0.0002790487185283924,0.0,5,0
+2783162182,Improving Reinforcement Learning Results with Qualitative Spatial Representation,2017,0.0,0.0002790487185283924,0.0,9,1
+2787783081,A bounded multi-dimensional modal logic for autonomous cars based on local traffic and estimation,2017,0.0,0.0002790487185283924,0.0,8,0
+2788536023,A Knowledge Base for Automatic Feature Recognition from Point Clouds in an Urban Scene,2018,0.0,0.0002790487185283924,0.0,4,6
+2789170698,Formal representation of qualitative direction,2018,0.0,0.0002790487185283924,0.0,12,0
+2789809032,Continuous Visual World Modeling for Autonomous Robot Manipulation,2019,0.0,0.0002790487185283924,0.0,4,1
+2790820169,"A cognitively enhanced collaborative control architecture for an intelligent wheelchair: Formalization, implementation and evaluation",2018,0.0,0.0002790487185283924,0.0,4,1
+2792443289,Towards a qualitative spatial model for road traffic in urban environment,2017,0.0,0.0002790487185283924,0.0,4,0
+2792669742,VidOnt: a core reference ontology for reasoning over video scenes*,2018,0.0,0.0002790487185283924,0.0,7,2
+2794171137,Stability and Statistical Inferences in the Space of Topological Spatial Relationships,2018,0.0,0.0002790487185283924,0.0,6,0
+2801220781,An active monitoring method for flood events,2018,0.0,0.0002790487185283924,0.0,4,0
+2802107808,Classification transfer for qualitative reasoning problems,2018,0.0,0.0002790487185283924,0.0,12,0
+2804957726,Answer Set Programming Modulo `Space-Time'.,2018,0.0,0.0002790487185283924,0.0,11,0
+2809325763,Reasoning for Autonomous Agents in Dynamic Domains: Towards Automatic Satisfaction of the Module Property,2017,0.0,0.0002790487185283924,0.0,4,2
+2809345931,An Assertion Framework for Mobile Robotic Programming with Spatial Reasoning,2018,0.0,0.0002790487185283924,0.0,4,0
+2809914288,A Model-Based Approach for Designing Location-Based Games,2017,0.0,0.0002790487185283924,0.0,4,1
+2815386176,A Hybrid Evolutionary Algorithm for Maximizing Satisfiability in Temporal or Spatial Qualitative Constraints,2018,0.0,0.0002790487185283924,0.0,13,0
+2884696563,Q-Link: A general planning architecture for navigation with qualitative relational information,2018,0.0,0.0002790487185283924,0.0,7,0
+2885799156,A method based on the Levenshtein distance metric for the comparison of multiple movement patterns described by matrix sequences of different length,2019,0.0,0.0002790487185283924,0.0,9,2
+2888283453,What Does Qualitative Spatial Knowledge Tell About Origami Geometric Folds,2018,0.0,0.0002790487185283924,0.0,9,0
+2888317738,An Incremental SAT-Based Approach to Reason Efficiently on Qualitative Constraint Networks,2018,0.0,0.0002790487185283924,0.0,13,2
+2888841046,GeoTriples: Transforming geospatial data into RDF graphs using R2RML and RML mappings,2018,0.0,0.0002790487185283924,0.0,4,7
+2895651535,Axiomatizing Discrete Spatial Relations,2018,0.0,0.0002790487185283924,0.0,5,0
+2895835929,Qualitative representation of spatio-temporal knowledge,2018,0.0,0.0002790487185283924,0.0,12,0
+2896074035,Learning Fuzzy Relations and Properties for Explainable Artificial Intelligence,2018,0.0,0.0002790487185283924,0.0,14,2
+2896558251,A survey on verification strategies for intelligent transportation systems,2018,0.0,0.0002790487185283924,0.0,4,2
+2899058258,A Hybrid Approach for Spatio-Temporal Validation of Declarative Multimedia Documents,2018,0.0,0.0002790487185283924,0.0,4,0
+2899286871,Querying Linked Geospatial Data with Incomplete Information.,2012,0.002388535031847134,0.00043867368453506534,0.0002422777581261981,13,4
+2899637820,Boolean matrix operators for computing binary topological relations between complex regions,2019,0.0,0.0002790487185283924,0.0,6,0
+2902492323,Probabilistic Region Connection Calculus.,2015,0.0007961783439490446,0.0003165451025730637,9.819289170832043e-05,14,1
+2902671857,Combining Deep Learning and Qualitative Spatial Reasoning to Learn Complex Structures from Sparse Examples with Noise,2018,0.0,0.0002790487185283924,0.0,4,2
+2903343717,Predicting Situated Behaviour Using Sequences of Abstract Spatial Relations.,2013,0.0031847133757961785,0.0004181402816257869,2.1784764692116178e-05,9,6
+2903754102,Reading between the Lanes: Road Layout Reconstruction from Partially Segmented Scenes,2018,0.0,0.0002790487185283924,0.0,4,6
+2904761349,Knowledge Representation in a Visual Typed Language: from Principles to Practice,2018,0.0,0.0002790487185283924,0.0,4,0
+2907571089,Query rewriting for semantic query optimization in spatial databases,2019,0.0,0.0002790487185283924,0.0,6,0
+2908283468,An event detection framework for the representation of the AGGIR variables,2018,0.0,0.0002790487185283924,0.0,10,0
+2910997816,A Calculus of Regions Respecting Both Measure and Topology,2019,0.0,0.0002790487185283924,0.0,5,0
+2911716327,Mereological inheritance,2001,0.0007961783439490446,0.0003415992378153482,2.6101460108259486e-05,5,2
+2912584064,A Logic for Spatial Reasoning in the Framework of Rough Mereology,2019,0.0,0.0002790487185283924,0.0,5,1
+2913900359,Multidimensional mereotopology,2004,0.0031847133757961785,0.00041336043792423945,9.716475415863583e-06,5,13
+2914921087,Fuzzy spatio‐temporal ontologies and formal construction based on fuzzy Petri nets,2019,0.0,0.0002790487185283924,0.0,7,0
+2921891477,Modelling and transposition of location-based games,2019,0.0,0.0002790487185283924,0.0,4,0
+2935787491,Qualitatively correct bintrees: an efficient representation of qualitative spatial information,2019,0.0,0.0002790487185283924,0.0,13,0
+2936741062,Towards an ontology for generative design of mechanical assemblies,2019,0.0,0.0002790487185283924,0.0,5,1
+2937039690,Towards Handling Spatio-Temporal Contexts on Linked Open Data for Points of Interest,2018,0.0,0.0002790487185283924,0.0,7,0
+2948399393,Beyond the digital Jordan curve: Unconstrained simple pixel-based raster relations,2019,0.0007961783439490446,0.00028983450493417427,8.945111274646635e-06,6,1
+2949160634,On Distributive Subalgebras of Qualitative Spatial and Temporal Calculi,2015,0.002388535031847134,0.00035056372373702124,8.941598949402133e-05,13,5
+2949504124,On the Decidability of Connectedness Constraints in 2D and 3D Euclidean Spaces,2011,0.002388535031847134,0.00036718348442504623,3.142350870863571e-05,5,5
+2949799919,From 9-IM Topological Operators to Qualitative Spatial Relations using 3D Selective Nef Complexes and Logic Rules for bodies,2013,0.0,0.0002790487185283924,0.0,7,1
+2949858773,ASPMT(QS): Non-Monotonic Spatial Reasoning with Answer Set Programming Modulo Theories,2015,0.002388535031847134,0.00035232862028532224,3.117029875115554e-05,11,7
+2950090218,Integrating Knowledge and Reasoning in Image Understanding,2019,0.0,0.0002790487185283924,0.0,4,0
+2950098792,A Layered Graph Representation for Complex Regions,2009,0.0,0.0002790487185283924,0.0,6,1
+2950140308,Qualitative Relational Mapping and Navigation for Planetary Rovers,2014,0.0,0.0002790487185283924,0.0,12,0
+2950167270,Topological Logics with Connectedness over Euclidean Spaces,2011,0.0,0.0002790487185283924,0.0,5,0
+2950487583,Consistent Query Answering under Spatial Semantic Constraints,2011,0.0,0.0002790487185283924,0.0,6,0
+2950499351,Belief revision in the propositional closure of a qualitative algebra,2014,0.0007961783439490446,0.0003091798211733937,0.0,4,1
+2950594954,Multimodal Semantic Simulations of Linguistically Underspecified Motion Events,2016,0.0,0.0002790487185283924,0.0,9,0
+2950812726,Case Adaptation with Qualitative Algebras,2013,0.0,0.0002790487185283924,0.0,4,0
+2951205527,Incomplete Information in RDF,2012,0.0007961783439490446,0.00034317495237792887,0.0,13,2
+2951276658,Plausible reasoning from spatial observations,2013,0.0,0.0002790487185283924,0.0,4,0
+2951450991,Infrastructure-Independent Indoor Localization and Navigation,2019,0.0,0.0002790487185283924,0.0,4,1
+2951945830,Relation Variables in Qualitative Spatial Reasoning,2006,0.0,0.0002790487185283924,0.0,12,0
+2952311905,A Survey of Qualitative Spatial and Temporal Calculi -- Algebraic and Computational Properties,2016,0.0,0.0002790487185283924,0.0,12,0
+2952371907,Reasoning with Topological and Directional Spatial Information,2009,0.0,0.0002790487185283924,0.0,12,1
+2952454731,Algebraic Properties of Qualitative Spatio-Temporal Calculi,2013,0.0015923566878980893,0.0003574958903740985,7.478890642214551e-05,12,3
+2952930490,Generating Simulations of Motion Events from Verbal Descriptions,2016,0.0007961783439490446,0.00046405514060449485,0.0,4,1
+2953171697,Realizing RCC8 networks using convex regions,2014,0.0,0.0002790487185283924,0.0,12,0
+2953192726,Modal Logics of Topological Relations,2006,0.0031847133757961785,0.0005600732047411838,0.00027463050653362477,5,14
+2953493128,Accentuating Features of Description Logics in High-Level Interpretations of Hand-Drawn Sketches,2019,0.0,0.0002790487185283924,0.0,7,0
+2953721727,Spatio-Temporal Specification for Mobile Cyber Physical Systems,2018,0.0,0.0002790487185283924,0.0,12,0
+2953976787,Embedding RCC8D in the Collective Spatial Logic CSLCS.,2019,0.0007961783439490446,0.00031294690437513547,9.304607472445672e-06,5,1
+2955822659,Representing and reasoning fuzzy spatio- temporal knowledge with description logics: A survey,2019,0.0,0.0002790487185283924,0.0,7,0
+2959701797,A Multi-Level Semantic Scene Interpretation Strategy for Change Interpretation in Remote Sensing Imagery,2019,0.0,0.0002790487185283924,0.0,4,0
+2961262391,Image Schema Combinations and Complex Events,2019,0.0,0.0002790487185283924,0.0,11,1
+2962936384,Algebraic foundations for qualitative calculi and networks,2019,0.0,0.0002790487185283924,0.0,12,0
+2963217755,Answer Set Programming Modulo ‘Space-Time’,2018,0.0,0.0002790487185283924,0.0,11,0
+2963395077,Deeply Semantic Inductive Spatio-Temporal Learning,2016,0.0,0.0002790487185283924,0.0,11,2
+2963460509,Commonsense Scene Semantics for Cognitive Robotics: Towards Grounding Embodied Visuo-Locomotive Interactions,2017,0.0,0.0002790487185283924,0.0,11,0
+2963556801,Non-Monotonic Spatial Reasoning with Answer Set Programming Modulo Theories,2017,0.0,0.0002790487185283924,0.0,11,3
+2963676871,"Robust natural language processing: combining reasoning, cognitive semantics, and construction grammar for spatial language",2016,0.0,0.0002790487185283924,0.0,11,1
+2963758505,Spatial Knowledge Distillation to Aid Visual Reasoning,2019,0.0007961783439490446,0.0003581444855041262,7.801520638706924e-05,4,2
+2963977026,Combining Spatial and Temporal Logics: Expressiveness vs. Complexity,2011,0.0,0.0002790487185283924,0.0,5,0
+2966318863,A framework for assisted proximity analysis in feature data,2019,0.0,0.0002790487185283924,0.0,10,0
+2977340643,A Topological Transition Based Logic for the Qualitative Motion of Objects,1996,0.0,0.0002790487185283924,0.0,4,0
+2980190921,Innovating Medical Image Analysis via Spatial Logics,2019,0.0,0.0002790487185283924,0.0,5,0
+2981483223,Geographical Entity Community Mining Based on Spatial and Semantic Association.,2019,0.0,0.0002790487185283924,0.0,4,0
+2981907624,Binary topological relations on the digital sphere,2020,0.0,0.0002790487185283924,0.0,6,0
+2991595373,Semantics-enabled Spatio-Temporal Modeling of Earth Observation Data: An application to Flood Monitoring,2019,0.0,0.0002790487185283924,0.0,7,0
+2999095741,Method for Calculating Geographic Entity Relevance Based on Spatial and Semantic Association,2019,0.0,0.0002790487185283924,0.0,4,0
+101714839,Introduction: Uncertainty Issues in Spatial Information,2010,0.0007961783439490446,0.0003229579181791133,9.257255955177641e-05,14,3
+104338064,Multi-Paradigm Spatial Information Processing,2007,0.0,0.0002790487185283924,0.0,8,1
+11569476,The finest of its class: the natural point-based ternary calculus LR for qualitative spatial reasoning,2004,0.025477707006369428,0.001821736452006415,0.0001415997939773828,12,49
+117123704,"Axioms, Algebras and Topology",2007,0.006369426751592357,0.0006041986431718536,0.0011715943445976024,5,27
+118575829,Revising Geographical Knowledge: A Model for Local Belief Change,2010,0.0,0.0002790487185283924,0.0,4,0
+118697392,Querying and Reasoning for Spatiotemporal Data Mining,2008,0.0,0.0002790487185283924,0.0,9,7
+145945527,Applying Belief Revision to Case-Based Reasoning,2014,0.0,0.0002790487185283924,0.0,4,9
+1481496478,Spatial Arrangement as a part of Geospatial Feature Ontologies,2012,0.0,0.0002790487185283924,0.0,4,1
+1484612461,Towards a Robot Perception Specification Language,2013,0.0,0.0002790487185283924,0.0,4,4
+1486195064,The complexity of description logics with concrete domains,2002,0.002388535031847134,0.0003812044601658952,3.939655391174157e-05,7,21
+1486503271,A ternary Relation Algebra of directed lines,2003,0.0007961783439490446,0.0004090369370670632,0.0003244154454723086,12,2
+1490709150,"SPATIAL REASONING AND ONTOLOGY: PARTS, WHOLES, AND LOCATIONS",2007,0.00875796178343949,0.000719633857062318,0.0007835271415045252,5,65
+1496481770,"Retrieval Algorithms, Spatial.",2008,0.0,0.0002790487185283924,0.0,14,0
+1500091283,Spatial Logic + Temporal Logic = ?,2007,0.006369426751592357,0.0005280220405277493,0.0005974229915308055,5,41
+1503383798,First-Order Mereotopology,2007,0.009554140127388536,0.0006597995494104426,5.6759492667877424e-05,5,28
+1510836926,Handbook of Temporal Reasoning in Artificial Intelligence,2005,0.0031847133757961785,0.0005097499642235522,0.0004128987861795485,14,84
+1517114161,Spherical topological relations,2005,0.014331210191082803,0.001183109281775514,8.956440195685732e-05,6,41
+1518707136,Situated Interaction on Spatial Topics,2003,0.0,0.0002790487185283924,0.0,4,26
+1519749425,"An Ontological Analysis of Vague Motion Verbs, with an Application to Event Recognition",2013,0.0,0.0002790487185283924,0.0,14,1
+1519968864,QTC3D: extending the qualitative trajectory calculus to three dimensions,2015,0.0,0.0002790487185283924,0.0,9,7
+1521051682,Spatial database implementation of fuzzy region connection calculus for analysing the relationship of diseases,2015,0.0007961783439490446,0.0003201231103426531,5.1439697663718775e-05,14,2
+1525598334,Discrete Spatial Models,2007,0.0015923566878980893,0.00035660701437492036,1.4965207871924953e-05,5,6
+1527612193,Euler/X: A Toolkit for Logic-based Taxonomy Integration,2014,0.0007961783439490446,0.000315006477990667,0.0,4,6
+1528084248,Locomotion Activities in Smart Environments,2010,0.0,0.0002790487185283924,0.0,9,1
+1530375570,Modal Logics of Space,2007,0.009554140127388536,0.000863568626571559,0.000406193092708179,5,93
+1530942228,Modelling viewpoints in user generated content,2013,0.0,0.0002790487185283924,0.0,4,4
+1550795975,A class of ◇ f -consistencies for qualitative constraint networks,2010,0.002388535031847134,0.00039073114774122936,2.6294805840569765e-05,12,7
+1551041685,Qualitative Reasoning: A Survey of Techniques Applications,1995,0.0007961783439490446,0.0002959978114517639,2.1146835164649258e-07,9,52
+1552723090,Gaussian Process Models in Spatial Data Mining.,2008,0.0,0.0002790487185283924,0.0,7,0
+1554785121,Spatial Cognition: From rats-research to multifunctional spatial assistance systems,2003,0.0,0.0002790487185283924,0.0,4,9
+1556440728,Representing Regions with Indeterminate Boundaries.,2008,0.0,0.0002790487185283924,0.0,14,0
+1557741327,The Application of Classical Conditioning to the Machine Learning of a Commonsense Knowledge of Visual Events,2013,0.0,0.0002790487185283924,0.0,10,2
+1558422439,Route generation and description using the notions ofobject's influence area and spatial conceptual map,1999,0.0,0.0002790487185283924,0.0,4,15
+1564890507,3D Model Retrieval Based on Semantic and Shape Indexes,2011,0.0,0.0002790487185283924,0.0,4,7
+1581542814,Region-based query languages for spatial databases in the topological data model,2003,0.0,0.0002790487185283924,0.0,5,3
+1586532222,Knowledge-Assisted Analysis of Video for Content-Adaptive Coding and Transmission,2008,0.0,0.0002790487185283924,0.0,4,0
+1588303270,Spatiotemporal reasoning for smart homes,2006,0.004777070063694268,0.0006313650950334201,0.00017534406450081327,9,50
+1595749752,"Geosensor Networks, Qualitative Monitoring of Dynamic Fields.",2008,0.0,0.0002790487185283924,0.0,4,0
+1597095978,Qualitative Spatial Reasoning Using Constraint Calculi,2007,0.06050955414012739,0.003560091080847077,0.0032988525521978245,12,182
+1613513377,Oriented Straight Line Segment Algebra: Qualitative Spatial Reasoning about Oriented Objects,2009,0.0015923566878980893,0.00035194615088371026,9.40734813523912e-05,12,6
+1623008705,Integrating existing cone-shaped and projection-based cardinal direction relations and a TCSP-like decidable generalisation,2003,0.0007961783439490446,0.00029644019829077776,4.4619822197409935e-06,13,1
+1635372392,An ALC(D)-based combination of temporal constraints and spatial constraints suitable for continuous (spatial) change,2004,0.0,0.0002790487185283924,0.0,4,0
+1639192937,Relational reasoning in the Region Connection Calculus,2005,0.0015923566878980893,0.0003541858104301418,1.140691660459722e-05,12,4
+1651186609,Spatio-Temporal Reasoning and Context Awareness,2010,0.0015923566878980893,0.00043724025247985997,7.292486106529297e-05,9,17
+1663348817,A TCSP-like decidable constraint language generalising existing cardinal direction relations,2004,0.0,0.0002790487185283924,0.0,4,0
+174827044,A General Approach to the Fuzzy Modeling of Spatial Relationships,2010,0.0,0.0002790487185283924,0.0,11,16
+1756144766,Qualitative shape representation based on the qualitative relative direction and distance calculus eOPRAm,2014,0.0,0.0002790487185283924,0.0,9,1
+1873040138,Bridging the gap between modal temporal logics and constraint-based QSR as an ALC(D) spatio-temporalisation with weakly cyclic TBoxes,2003,0.0,0.0002790487185283924,0.0,9,0
+187636230,Context-Aware Applications Enhanced with Commonsense Spatial Reasoning,2008,0.0,0.0002790487185283924,0.0,4,2
+1894084793,On A Semi-Automatic Method for Generating Composition Tables,2011,0.0015923566878980893,0.0003288922463225979,7.269441231728495e-05,12,2
+1912794509,Extending Binary Qualitative Direction Calculi with a Granular Distance Concept: Hidden Feature Attachment,2010,0.0,0.0002790487185283924,0.0,12,0
+1970772522,SEM 2 suite — Towards a tool suite for supporting knowledge management in situation awareness systems,2014,0.0,0.0002790487185283924,0.0,4,4
+1980825685,Formalizing ontological commitments,1994,0.002388535031847134,0.0022353012432788865,5.94693229707566e-05,5,58
+1991522449,The SpaTeC composite event language for spatio-temporal reasoning in mobile systems,2009,0.0015923566878980893,0.0004991769247548361,7.316804966968644e-05,4,25
+2005081178,"From quantitative spatial operator to qualitative spatial relation using Constructive Solid Geometry, logic rules and optimized 9-IM model: A semantic based approach",2012,0.0,0.0002790487185283924,0.0,7,1
+2010969981,Fuzzy region connection calculus,2008,0.01035031847133758,0.0008064652007184173,0.0007378382324015763,14,24
+2028180320,Inferring additional knowledge from QTCN relations,2011,0.003980891719745223,0.0003845756626402211,0.00023189807354739983,9,12
+2039492649,"Conception, modélisation géométrique et contraintes en CAO : Une synthèse",2004,0.0,0.0002790487185283924,0.0,4,3
+2063080082,Eine Erweiterung des Relationalen Modells zur Repräsentation räumlichen Wissens,2014,0.0,0.0002790487185283924,0.0,5,1
+2064499423,Formalization of 2-D spatial ontology and OWL/Protégé realization,2011,0.0007961783439490446,0.0003265061787138327,1.5225721318547465e-06,7,3
+207819423,Intelligent Information Integration for the Semantic Web,2005,0.002388535031847134,0.00047290606316210596,0.0001420502218677549,9,67
+2092974662,Stonian p-ortholattices: A new approach to the mereotopology RT0,2009,0.003980891719745223,0.0004218051356723643,0.00013184667527207442,5,14
+2094255012,Qualitative Spatial Representation and Reasoning,2007,0.0015923566878980893,0.00032248936691651103,2.895954636787087e-05,5,7
+2105926775,A Representation Scheme for Description and Reconstruction of Object Configurations Based on Qualitative Relations,2008,0.0,0.0002790487185283924,0.0,9,28
+2108609397,Foundations of a Logic based approach to Multimedia Document Retrieval,1999,0.0,0.0002790487185283924,0.0,4,8
+2111554743,Object-oriented conceptual modeling of video data,1995,0.0007961783439490446,0.0003976923689919931,0.0,4,100
+2114565854,Spatial logics with connectedness predicates,2010,0.011146496815286625,0.0006679836067781685,0.0007803781312314908,5,37
+2115419467,Belief revision in the propositional closure of a qualitative algebra (extended version),2014,0.0015923566878980893,0.0003749017852096289,3.6847399054621116e-05,4,2
+2125059476,Research in Probabilistic Spatiotemporal Databases: The SPOT Framework,2013,0.0007961783439490446,0.00030985451238908795,1.07383354331866e-05,13,8
+2136677798,La représentation formelle des concepts spatiaux dans la langue,1997,0.002388535031847134,0.00048031302090749043,0.0,5,19
+213802183,A Study in the Computational Complexity of Temporal Reasoning,2002,0.0,0.0002790487185283924,0.0,12,13
+2145673203,The Axiomatic Foundation of Space in GFO,2011,0.0007961783439490446,0.0003509642374529417,6.344050549394777e-07,5,3
+2156215965,Qualitative Temporal and Spatial Reasoning Revisited1,2009,0.0031847133757961785,0.000395092353524881,0.00014434200313295396,7,23
+2159684979,On the Gradual Evolvement of Things,2013,0.0,0.0002790487185283924,0.0,5,2
+2162274427,Spatial reasoning with RCC 8 and connectedness constraints in Euclidean spaces,2014,0.0007961783439490446,0.0002885402105654804,2.7815350204138997e-05,12,8
+2173907284,Bridging qualitative spatial constraints and feature-based parametric modelling,2017,0.0,0.0002790487185283924,0.0,11,3
+2188546454,Development of Structured Ontologies in Casl,2007,0.0,0.0002790487185283924,0.0,12,2
+2227459827,Chapter 2: Ontology for Spatio-temporal Databases,2003,0.0007961783439490446,0.0003976923689919931,2.6645012307458065e-05,5,33
+2240909318,Qualitative spatial representation and reasoning,2008,0.08280254777070065,0.004500377572708813,0.015244788635402103,5,285
+2260626089,A decidable weakening of Compass Logic based on cone-shaped cardinal directions,2015,0.0,0.0002790487185283924,0.0,5,10
+2281306603,On Generalizing Orientation Information in (mathcal{OPRA}_m),2006,0.003980891719745223,0.0006241609422497406,0.0002479992037717083,9,8
+2403502472,Time in Qualitative Simulation.,2005,0.0,0.0002790487185283924,0.0,14,1
+2405086721,ALC(&#120125;): A New Description Logic for Spatial Reasoning in Images.,2014,0.0007961783439490446,0.0003185966020162593,1.9407256224319182e-05,7,2
+2408367172,Recognizing variable spatial environments--The theory of cognitive prism,2005,0.0015923566878980893,0.00045009557414236724,8.046370780149042e-05,5,4
+243224581,An Exploratory Survey of Logic-Based Formalisms for Spatial Information,2010,0.0,0.0002790487185283924,0.0,5,1
+2468638268,Pinning down polysemy,2017,0.0,0.0002790487185283924,0.0,6,0
+2515094858,Extensions of the heuristic topological qualitative semantic,2015,0.0,0.0002790487185283924,0.0,5,2
+2520332212,Point Partitions: A Qualitative Representation for Region-Based Spatial Scenes in {mathbb{R}}^{2},2016,0.0,0.0002790487185283924,0.0,6,0
+2572637461,Methods for creating and using geospatio-temporal semantic web,2010,0.0,0.0002790487185283924,0.0,9,0
+2577445246,XCSP3: An Integrated Format for Benchmarking Combinatorial Constrained Problems.,2016,0.0,0.0002790487185283924,0.0,4,9
+2591599002,"Linking Discrete and Continuous Models, Applied to Traffic Manoeuvrers",2017,0.0,0.0002790487185283924,0.0,8,5
+2604606876,Symbol Grounding via Chaining of Morphisms.,2017,0.0,0.0002790487185283924,0.0,8,1
+2609516093,A hybrid spatial data mining approach based on fuzzy topological relations and MOSES evolutionary algorithm.,2017,0.0,0.0002790487185283924,0.0,14,0
+2612197977,Towards Decision Support for Smart Energy Systems based on Spatio-temporal Models.,2017,0.0,0.0002790487185283924,0.0,8,0
+2612563811,Towards Applying the OPRA Theory to Shape Similarity.,2017,0.0,0.0002790487185283924,0.0,9,1
+2684377705,Efficient extraction of spatial relations for extended objects vis-à-vis human activity recognition in video,2018,0.0,0.0002790487185283924,0.0,4,3
+2759287943,Formalising Sensor Topologies for Target Counting,2018,0.0,0.0002790487185283924,0.0,8,1
+2795575184,A Proof of the Compositions of Time Interval Relations.,2018,0.0,0.0002790487185283924,0.0,12,1
+2806466155,Reference Model of Multi-Entity Bayesian Networks for Predictive Situation Awareness.,2018,0.0,0.0002790487185283924,0.0,4,0
+2811193800,"I n , o ut and through: formalising some dynamic aspects of the image schema c ontainment",2018,0.0007961783439490446,0.0003087096311442926,4.595732814368201e-05,11,2
+35926320,Generating Fuzzy Regions from Conflicting Spatial Information,2010,0.0,0.0002790487185283924,0.0,14,0
+97909638,Qualitative spatial reasoning,2009,0.0,0.0002790487185283924,0.0,4,1
